@@ -1,0 +1,84 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+}
+
+a, a:link {
+	color: #15C;
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #333333;
+	outline-style: none;
+	outline-width: medium;
+}
+
+ol, ul {
+	list-style-image: none;
+	list-style-position: outside;
+	list-style-type: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-size: 100%;
+	font-weight: normal;
+}
+
+p {
+	line-height: 20px;
+	padding: 0 0 10px 0;
+}
+
+body {
+	background-image: -moz-linear-gradient(top, #F7F7F7, whiteSmoke);
+	background-image: -o-linear-gradient(top, #F7F7F7, whiteSmoke);
+	background-image: -webkit-linear-gradient(top, #F7F7F7, whiteSmoke);
+	background-image: linear-gradient(top, #F7F7F7, whiteSmoke);
+	font-family: sans-serif, Verdana;
+	color: #000000;
+	overflow-x: hidden;
+	height: 100%;
+	width: 100%;
+	line-height: 20px;
+	font-size: 30px;
+}
+
+
+.copy {
+    background: transparent -moz-linear-gradient(center bottom , #6c7a95 0%, #4d5b76 70%) repeat scroll 0 0;
+    border-bottom: 1px solid #4d5b76;
+    color: #ffffff;
+    font-size: 14px;
+    padding: 10px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.welcome {
+    text-align: center;
+    
+}
+.welcome button{
+    margin: 0 auto;
+}
+
+.content {
+    margin: 0 auto;    
+}
+
+#fillContent {
+    margin: 0 auto;
+    width: 600px;    
+}
+
+#selectStation {
+    width: 300px;
+    margin: 0 auto;    
+}
+
+.stationHeader {
+    font-weight: bold;
+}

@@ -1,0 +1,22 @@
+page-feed {
+.fixed-content {
+        background-color: #414d5c;
+    }
+
+    ion-card-header {
+        background-color: #82b440;
+        color: white !important;
+
+        font-size: 2rem;
+
+        text-align: center;
+    }
+
+    ion-card-content {
+        padding-top: 14px !important;
+    }
+
+    ion-card {
+        box-shadow: 0 0 25px !important;
+    }
+}

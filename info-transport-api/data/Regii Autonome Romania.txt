@@ -1,0 +1,65 @@
+Județ  Adresa Web
+
+Alba www.stpalba.ro
+Arad www.ctparad.ro
+Argeș www.publitrans2000.ro
+Bacãu www.transportpublicbc.ro
+Bihor www.bihortransport.ro
+Bistrița N. www.transmixtbn.ro
+Botoșani www.eltransbt.ro
+Brãila www.braicar.ro
+Brașov www.ratbv.ro
+București www.ratb.ro
+Buzãu www.transbusbuzau.ro
+Cãlãrași www.calarasi.ro
+Caraș S. www.primaria-resita.ro
+Cluj www.ctpcj.ro
+Constanța www.ratc.ro
+Covasna www.primariacovasna.ro
+Dâmbovița www.aitt.ro
+Dolj www.rat-craiova.ro
+Galați www.transurbgalati.ro
+Giurgiu www.transporturbangiurgiu.ro
+Gorj www.cnipt-targujiu.ro
+Harghita www.judetulharghita.ro
+Hunedoara www.primariahd.ro
+Ialomița www.cicnet.ro
+Iași www.ratp-iasi.ro
+Ilfov www.amtb.eu
+Maramureș www.urbisbaiamare.ro
+Mehedinți www.cjmehedinti.ro
+Mureș www.transportlocal.ro
+Neamț www.troleibuzul.ro
+Olt www.loctrans-slatina.ro
+Prahova www.ratph.ro
+Sãlaj www.cjsj.ro
+Satu M. www.transurbansatumare.ro
+Sibiu www.tursib.ro
+Suceava www.tpl-sv.ro
+Teleorman www.cjteleorman.ro
+Timiș www.ratt.ro
+Turda http://www.primariaturda.ro
+Tulcea www.stp-tulcea.ro
+Vâlcea www.eta-bus.ro
+Vaslui www.transurb.ro
+Vrancea www.tpfocsani.ro
+
+Aplicații mobile disponibile:
+
+Timișoara
+https://play.google.com/store/apps/details?id=ro.mihai.tpt
+
+https://play.google.com/store/apps/details?id=claudiu.constantinescu.ratt.publicbus
+
+București
+https://play.google.com/store/apps/details?id=com.dividet.transportbucuresti
+
+
+
+Altele
+
+App Vodafone - Transport Urban
+https://play.google.com/store/apps/details?id=com.indyvision.transport.transporturban
+
+Moovit
+https://play.google.com/store/apps/details?id=com.tranzmat

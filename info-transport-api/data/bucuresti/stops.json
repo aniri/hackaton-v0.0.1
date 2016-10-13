@@ -1,0 +1,4010 @@
+[
+	{
+		"id":"0",
+		"name":"SURA MARE"
+	},
+	{
+		"id":"1",
+		"name":"CUTITUL DE ARGINT"
+	},
+	{
+		"id":"2",
+		"name":"ADESGO"
+	},
+	{
+		"id":"3",
+		"name":"COLEGIUL NATIONAL GH. SINCAI"
+	},
+	{
+		"id":"4",
+		"name":"UNIV. CRESTINA DIMITRIE CANTE"
+	},
+	{
+		"id":"5",
+		"name":"SCOALA GENERALA 81"
+	},
+	{
+		"id":"6",
+		"name":"PAPAZOGLU"
+	},
+	{
+		"id":"7",
+		"name":"BD. OCTAVIAN GOGA"
+	},
+	{
+		"id":"8",
+		"name":"POSTA VITAN"
+	},
+	{
+		"id":"9",
+		"name":"PIATA VITAN"
+	},
+	{
+		"id":"10",
+		"name":"BUCURESTI-MALL"
+	},
+	{
+		"id":"11",
+		"name":"ZIZIN"
+	},
+	{
+		"id":"12",
+		"name":"CALEA VITAN"
+	},
+	{
+		"id":"13",
+		"name":"LABORATOR"
+	},
+	{
+		"id":"14",
+		"name":"CALEA DUDESTI"
+	},
+	{
+		"id":"15",
+		"name":"BABA NOVAC"
+	},
+	{
+		"id":"16",
+		"name":"GHEORGHE PETRASCU"
+	},
+	{
+		"id":"17",
+		"name":"PIATA HURMUZACHI"
+	},
+	{
+		"id":"18",
+		"name":"VATRA LUMINOASA"
+	},
+	{
+		"id":"19",
+		"name":"PIATA IANCULUI"
+	},
+	{
+		"id":"20",
+		"name":"BD. FERDINAND"
+	},
+	{
+		"id":"21",
+		"name":"BUCUR OBOR"
+	},
+	{
+		"id":"22",
+		"name":"LIZEANU"
+	},
+	{
+		"id":"23",
+		"name":"DR. GROZOVICI"
+	},
+	{
+		"id":"24",
+		"name":"VASILE LASCAR"
+	},
+	{
+		"id":"25",
+		"name":"STADION DINAMO"
+	},
+	{
+		"id":"26",
+		"name":"CALEA DOROBANTILOR"
+	},
+	{
+		"id":"27",
+		"name":"ROMA"
+	},
+	{
+		"id":"28",
+		"name":"PASAJ VICTORIA"
+	},
+	{
+		"id":"29",
+		"name":"DR. FELIX"
+	},
+	{
+		"id":"30",
+		"name":"BD. BANU MANTA"
+	},
+	{
+		"id":"31",
+		"name":"PASAJUL BASARAB"
+	},
+	{
+		"id":"32",
+		"name":"POD GROZAVESTI"
+	},
+	{
+		"id":"33",
+		"name":"BD. IULIU MANIU"
+	},
+	{
+		"id":"34",
+		"name":"BD. TIMISOARA"
+	},
+	{
+		"id":"35",
+		"name":"PIATA DANNY HUWE"
+	},
+	{
+		"id":"36",
+		"name":"APRODEX"
+	},
+	{
+		"id":"37",
+		"name":"CALEA 13 SEPTEMBRIE"
+	},
+	{
+		"id":"38",
+		"name":"INOX"
+	},
+	{
+		"id":"39",
+		"name":"CALEA RAHOVEI"
+	},
+	{
+		"id":"40",
+		"name":"SPATARUL PREDA"
+	},
+	{
+		"id":"41",
+		"name":"SOSEAUA VIILOR"
+	},
+	{
+		"id":"42",
+		"name":"STEFAN HEPITES"
+	},
+	{
+		"id":"43",
+		"name":"PIATA EROII REVOLUTIEI"
+	},
+	{
+		"id":"44",
+		"name":"CIMITIRUL SERBAN VODA"
+	},
+	{
+		"id":"45",
+		"name":"DR. CONSTANTIN ISTRATI"
+	},
+	{
+		"id":"46",
+		"name":"BD. VASILE MILEA"
+	},
+	{
+		"id":"47",
+		"name":"MIEILOR"
+	},
+	{
+		"id":"48",
+		"name":"NERVA TRAIAN"
+	},
+	{
+		"id":"49",
+		"name":"UNIVERSITATEA CRESTINA DIMITR"
+	},
+	{
+		"id":"50",
+		"name":"CIMITIRUL EROII REVOLUTIEI"
+	},
+	{
+		"id":"51",
+		"name":"C.F.R. PROGRESUL"
+	},
+	{
+		"id":"52",
+		"name":"CAP. RADUCANU CRISTEA"
+	},
+	{
+		"id":"53",
+		"name":"ANGHEL NUTU"
+	},
+	{
+		"id":"54",
+		"name":"LUICA"
+	},
+	{
+		"id":"55",
+		"name":"CIMITIRUL PROGRESUL"
+	},
+	{
+		"id":"56",
+		"name":"BACIULUI"
+	},
+	{
+		"id":"57",
+		"name":"ZETARILOR"
+	},
+	{
+		"id":"58",
+		"name":"SOSEAUA GIURGIULUI"
+	},
+	{
+		"id":"59",
+		"name":"PIATA SF. GHEORGHE"
+	},
+	{
+		"id":"60",
+		"name":"HRISTO BOTEV"
+	},
+	{
+		"id":"61",
+		"name":"BD. CAROL I"
+	},
+	{
+		"id":"62",
+		"name":"BATISTEI"
+	},
+	{
+		"id":"63",
+		"name":"MARIA ROSETTI"
+	},
+	{
+		"id":"64",
+		"name":"PIATA GEMENI"
+	},
+	{
+		"id":"65",
+		"name":"TEATRUL METROPOLIS"
+	},
+	{
+		"id":"66",
+		"name":"SOSEAUA STEFAN CEL MARE"
+	},
+	{
+		"id":"67",
+		"name":"BD. LACUL TEI"
+	},
+	{
+		"id":"68",
+		"name":"ROSSINI"
+	},
+	{
+		"id":"69",
+		"name":"CEAIKOVSKI"
+	},
+	{
+		"id":"70",
+		"name":"GIUSEPPE VERDI"
+	},
+	{
+		"id":"71",
+		"name":"MUZEUL AVIATIEI"
+	},
+	{
+		"id":"72",
+		"name":"SOSEAUA PIPERA"
+	},
+	{
+		"id":"73",
+		"name":"MAGURICEA"
+	},
+	{
+		"id":"74",
+		"name":"PASAJ BANEASA"
+	},
+	{
+		"id":"75",
+		"name":"APICOLA"
+	},
+	{
+		"id":"76",
+		"name":"PIATA BANEASA"
+	},
+	{
+		"id":"77",
+		"name":"CIMITIRUL EVREIESC"
+	},
+	{
+		"id":"78",
+		"name":"DRUMUL GAZARULUI"
+	},
+	{
+		"id":"79",
+		"name":"TOPORASI"
+	},
+	{
+		"id":"80",
+		"name":"PIATA PROGRESUL"
+	},
+	{
+		"id":"81",
+		"name":"MUZEUL BACOVIA"
+	},
+	{
+		"id":"82",
+		"name":"AUTOGARA FILARET"
+	},
+	{
+		"id":"83",
+		"name":"PARCUL CAROL I"
+	},
+	{
+		"id":"84",
+		"name":"GRAMONT"
+	},
+	{
+		"id":"85",
+		"name":"PATRIARHIA ROMANA"
+	},
+	{
+		"id":"86",
+		"name":"PIATA UNIRII"
+	},
+	{
+		"id":"87",
+		"name":"11 IUNIE"
+	},
+	{
+		"id":"88",
+		"name":"DEPOUL MILITARI"
+	},
+	{
+		"id":"89",
+		"name":"INSCUT"
+	},
+	{
+		"id":"90",
+		"name":"S.C. VEST"
+	},
+	{
+		"id":"91",
+		"name":"URBIS"
+	},
+	{
+		"id":"92",
+		"name":"CESAROM"
+	},
+	{
+		"id":"93",
+		"name":"C.F.R. COTROCENI"
+	},
+	{
+		"id":"94",
+		"name":"VALEA CASCADELOR"
+	},
+	{
+		"id":"95",
+		"name":"RADOX"
+	},
+	{
+		"id":"96",
+		"name":"VALEA OLTULUI"
+	},
+	{
+		"id":"97",
+		"name":"FRIGOCOM"
+	},
+	{
+		"id":"98",
+		"name":"ROMANCIERILOR"
+	},
+	{
+		"id":"99",
+		"name":"COMPASULUI"
+	},
+	{
+		"id":"100",
+		"name":"BRASOV"
+	},
+	{
+		"id":"101",
+		"name":"SERGENT MOISE"
+	},
+	{
+		"id":"102",
+		"name":"SIBIU"
+	},
+	{
+		"id":"103",
+		"name":"SOSEAUA PROGRESULUI"
+	},
+	{
+		"id":"104",
+		"name":"CALEA FERENTARI"
+	},
+	{
+		"id":"105",
+		"name":"SOSEAUA SALAJ"
+	},
+	{
+		"id":"106",
+		"name":"CIBINULUI"
+	},
+	{
+		"id":"107",
+		"name":"ARMISTITIULUI"
+	},
+	{
+		"id":"108",
+		"name":"SULITEI"
+	},
+	{
+		"id":"109",
+		"name":"PIATA FERENTARI"
+	},
+	{
+		"id":"110",
+		"name":"VADUL NOU"
+	},
+	{
+		"id":"111",
+		"name":"VALTOAREI"
+	},
+	{
+		"id":"112",
+		"name":"CALEA PLEVNEI"
+	},
+	{
+		"id":"113",
+		"name":"SPITALUL PANAIT SARBU"
+	},
+	{
+		"id":"114",
+		"name":"PASAJ GRANT"
+	},
+	{
+		"id":"115",
+		"name":"CIMITIRUL CALVIN"
+	},
+	{
+		"id":"116",
+		"name":"GEORGE VALSAN"
+	},
+	{
+		"id":"117",
+		"name":"BD. CONSTRUCTORILOR"
+	},
+	{
+		"id":"118",
+		"name":"GODENI"
+	},
+	{
+		"id":"119",
+		"name":"PIATA GIULESTI"
+	},
+	{
+		"id":"120",
+		"name":"COPSA MICA"
+	},
+	{
+		"id":"121",
+		"name":"INSTITUTUL PASTEUR"
+	},
+	{
+		"id":"122",
+		"name":"DEPOUL GIULESTI"
+	},
+	{
+		"id":"123",
+		"name":"CARTIER 16 FEBRUARIE"
+	},
+	{
+		"id":"124",
+		"name":"PIATA SF. VINERI"
+	},
+	{
+		"id":"125",
+		"name":"ALEXANDRU SIHLEANU"
+	},
+	{
+		"id":"126",
+		"name":"HALA TRAIAN"
+	},
+	{
+		"id":"127",
+		"name":"BD. PACHE PROTOPOPESCU"
+	},
+	{
+		"id":"128",
+		"name":"HOREI"
+	},
+	{
+		"id":"129",
+		"name":"SOSEAUA MIHAI BRAVU"
+	},
+	{
+		"id":"130",
+		"name":"SOSEAUA PANTELIMON"
+	},
+	{
+		"id":"131",
+		"name":"CIMITIRUL ARMENESC"
+	},
+	{
+		"id":"132",
+		"name":"SOSEAUA IANCULUI"
+	},
+	{
+		"id":"133",
+		"name":"BD. CHISINAU"
+	},
+	{
+		"id":"134",
+		"name":"PICTOR HARLESCU"
+	},
+	{
+		"id":"135",
+		"name":"BD. BASARABIA"
+	},
+	{
+		"id":"136",
+		"name":"BAIA DE ARAMA"
+	},
+	{
+		"id":"137",
+		"name":"LUCRETIU PATRASCANU"
+	},
+	{
+		"id":"138",
+		"name":"BD. 1 DECEMBRIE 1918"
+	},
+	{
+		"id":"139",
+		"name":"BARAJUL IEZERU"
+	},
+	{
+		"id":"140",
+		"name":"BARAJUL ROVINARI"
+	},
+	{
+		"id":"141",
+		"name":"FAUR POARTA 4"
+	},
+	{
+		"id":"142",
+		"name":"SOSEAUA MORARILOR"
+	},
+	{
+		"id":"143",
+		"name":"BD. NICOLAE GRIGORESCU"
+	},
+	{
+		"id":"144",
+		"name":"BAICULUI"
+	},
+	{
+		"id":"145",
+		"name":"PIATA SF. STEFAN"
+	},
+	{
+		"id":"146",
+		"name":"PIATA CORNELIU COPOSU"
+	},
+	{
+		"id":"147",
+		"name":"MIHAI EMINESCU"
+	},
+	{
+		"id":"148",
+		"name":"TOAMNEI"
+	},
+	{
+		"id":"149",
+		"name":"REINVIERII"
+	},
+	{
+		"id":"150",
+		"name":"ALEXANDRU CEL BUN"
+	},
+	{
+		"id":"151",
+		"name":"TEIUL DOAMNEI"
+	},
+	{
+		"id":"152",
+		"name":"LACUL TEI"
+	},
+	{
+		"id":"153",
+		"name":"STRANDUL TEI"
+	},
+	{
+		"id":"154",
+		"name":"SOSEAUA FABRICA DE GLUCOZA"
+	},
+	{
+		"id":"155",
+		"name":"GELCAP"
+	},
+	{
+		"id":"156",
+		"name":"ROCIN"
+	},
+	{
+		"id":"157",
+		"name":"ELECTRONICA"
+	},
+	{
+		"id":"158",
+		"name":"PLATFORMA INDUSTRIALA PIPERA"
+	},
+	{
+		"id":"159",
+		"name":"GRIGORE MOISIL"
+	},
+	{
+		"id":"160",
+		"name":"ZIDURI MOSI"
+	},
+	{
+		"id":"161",
+		"name":"DOAMNA GHICA"
+	},
+	{
+		"id":"162",
+		"name":"RAUL COLENTINA"
+	},
+	{
+		"id":"163",
+		"name":"CARTIER COLENTINA"
+	},
+	{
+		"id":"164",
+		"name":"SPORTULUI"
+	},
+	{
+		"id":"165",
+		"name":"CORNISOR"
+	},
+	{
+		"id":"166",
+		"name":"NICOLAE CANEA"
+	},
+	{
+		"id":"167",
+		"name":"PASAJ COLENTINA"
+	},
+	{
+		"id":"168",
+		"name":"PIATA CHIRIGIU"
+	},
+	{
+		"id":"169",
+		"name":"PIATA REGINA MARIA"
+	},
+	{
+		"id":"170",
+		"name":"BD. DIMITRIE CANTEMIR"
+	},
+	{
+		"id":"171",
+		"name":"PASAJ MARASESTI"
+	},
+	{
+		"id":"172",
+		"name":"POLICLINICA VITAN"
+	},
+	{
+		"id":"173",
+		"name":"DEPOUL DUDESTI"
+	},
+	{
+		"id":"174",
+		"name":"DRISTORULUI"
+	},
+	{
+		"id":"175",
+		"name":"PIATA RAMNICU SARAT"
+	},
+	{
+		"id":"176",
+		"name":"VOLUNTARILOR"
+	},
+	{
+		"id":"177",
+		"name":"FIZICIENILOR"
+	},
+	{
+		"id":"178",
+		"name":"ILIOARA"
+	},
+	{
+		"id":"179",
+		"name":"PIATA TITAN"
+	},
+	{
+		"id":"180",
+		"name":"DUMBRAVA NOUA"
+	},
+	{
+		"id":"181",
+		"name":"OZANA"
+	},
+	{
+		"id":"182",
+		"name":"I.O.R. 2"
+	},
+	{
+		"id":"183",
+		"name":"STIROM"
+	},
+	{
+		"id":"184",
+		"name":"POLICOLOR"
+	},
+	{
+		"id":"185",
+		"name":"CHIMOPAR"
+	},
+	{
+		"id":"186",
+		"name":"COMPLEX RATB TITAN"
+	},
+	{
+		"id":"187",
+		"name":"CARTIER DAMAROAIA"
+	},
+	{
+		"id":"188",
+		"name":"IZBICENI"
+	},
+	{
+		"id":"189",
+		"name":"NEATARNARII"
+	},
+	{
+		"id":"190",
+		"name":"BD. BUCURESTII NOI"
+	},
+	{
+		"id":"191",
+		"name":"PAJUREI"
+	},
+	{
+		"id":"192",
+		"name":"DEPOUL BUCURESTII NOI"
+	},
+	{
+		"id":"193",
+		"name":"CARPATI"
+	},
+	{
+		"id":"194",
+		"name":"CLABUCET"
+	},
+	{
+		"id":"195",
+		"name":"AVIATOR POPISTEANU"
+	},
+	{
+		"id":"196",
+		"name":"PIATA DOMENII"
+	},
+	{
+		"id":"197",
+		"name":"BD. MARESAL AVERESCU"
+	},
+	{
+		"id":"198",
+		"name":"PIATA ION MIHALACHE"
+	},
+	{
+		"id":"199",
+		"name":"PIATA VICTORIEI"
+	},
+	{
+		"id":"200",
+		"name":"PIATA BUZESTI"
+	},
+	{
+		"id":"201",
+		"name":"MIRCEA VULCANESCU"
+	},
+	{
+		"id":"202",
+		"name":"RADIO ROMANIA"
+	},
+	{
+		"id":"203",
+		"name":"VASILE PARVAN"
+	},
+	{
+		"id":"204",
+		"name":"CISMIGIU"
+	},
+	{
+		"id":"205",
+		"name":"OSTASILOR"
+	},
+	{
+		"id":"206",
+		"name":"BD. GLORIEI"
+	},
+	{
+		"id":"207",
+		"name":"DEPOUL ALEXANDRIA"
+	},
+	{
+		"id":"208",
+		"name":"ANTIAERIANA"
+	},
+	{
+		"id":"209",
+		"name":"MARGEANULUI"
+	},
+	{
+		"id":"210",
+		"name":"PIATA RAHOVA"
+	},
+	{
+		"id":"211",
+		"name":"PETRE ISPIRESCU"
+	},
+	{
+		"id":"212",
+		"name":"CALEA GIULESTI"
+	},
+	{
+		"id":"213",
+		"name":"GARA BASARAB"
+	},
+	{
+		"id":"214",
+		"name":"REPUBLICA"
+	},
+	{
+		"id":"215",
+		"name":"FAUR"
+	},
+	{
+		"id":"216",
+		"name":"GRUP INDUSTRIAL TITAN"
+	},
+	{
+		"id":"217",
+		"name":"PIATA OBOR"
+	},
+	{
+		"id":"218",
+		"name":"SOSEAUA COLENTINA"
+	},
+	{
+		"id":"219",
+		"name":"TURMELOR"
+	},
+	{
+		"id":"220",
+		"name":"MAICA DOMNULUI"
+	},
+	{
+		"id":"221",
+		"name":"HALELE OBOR"
+	},
+	{
+		"id":"222",
+		"name":"OFICIUL POSTAL 72"
+	},
+	{
+		"id":"223",
+		"name":"POSTAVARULUI"
+	},
+	{
+		"id":"224",
+		"name":"LIVIU REBREANU"
+	},
+	{
+		"id":"225",
+		"name":"ARENA NATIONALA"
+	},
+	{
+		"id":"226",
+		"name":"PATINOAR"
+	},
+	{
+		"id":"227",
+		"name":"DELEA VECHE"
+	},
+	{
+		"id":"228",
+		"name":"UNIVERSITATEA HYPERION"
+	},
+	{
+		"id":"229",
+		"name":"PIATA PRESEI"
+	},
+	{
+		"id":"230",
+		"name":"AGRONOMIE"
+	},
+	{
+		"id":"231",
+		"name":"CASIN"
+	},
+	{
+		"id":"232",
+		"name":"BD. ION MIHALACHE"
+	},
+	{
+		"id":"233",
+		"name":"SOSEAUA CRANGASI"
+	},
+	{
+		"id":"234",
+		"name":"PIATA CRANGASI"
+	},
+	{
+		"id":"235",
+		"name":"POD CIUREL"
+	},
+	{
+		"id":"236",
+		"name":"ORSOVA"
+	},
+	{
+		"id":"237",
+		"name":"BD. UVERTURII"
+	},
+	{
+		"id":"238",
+		"name":"DRUMUL TABEREI"
+	},
+	{
+		"id":"239",
+		"name":"PARCUL DRUMUL TABEREI"
+	},
+	{
+		"id":"240",
+		"name":"GHENCEA"
+	},
+	{
+		"id":"241",
+		"name":"TURDA"
+	},
+	{
+		"id":"242",
+		"name":"UNIVERSITATEA ROMANO-AMERICANA"
+	},
+	{
+		"id":"243",
+		"name":"BD.EXPOZITIEI"
+	},
+	{
+		"id":"244",
+		"name":"GRIVITA"
+	},
+	{
+		"id":"245",
+		"name":"GARA DE NORD"
+	},
+	{
+		"id":"246",
+		"name":"BUZESTI"
+	},
+	{
+		"id":"247",
+		"name":"BD. EXPOZITIEI"
+	},
+	{
+		"id":"248",
+		"name":"MEZES"
+	},
+	{
+		"id":"249",
+		"name":"MARMUREI"
+	},
+	{
+		"id":"250",
+		"name":"CRINULUI"
+	},
+	{
+		"id":"251",
+		"name":"MINERVA"
+	},
+	{
+		"id":"252",
+		"name":"NAVIGATIEI"
+	},
+	{
+		"id":"253",
+		"name":"SOSEAUA CHITILEI"
+	},
+	{
+		"id":"254",
+		"name":"SUBCETATE"
+	},
+	{
+		"id":"255",
+		"name":"DR. CONSTANTIN CARACAS"
+	},
+	{
+		"id":"256",
+		"name":"LT. VICTOR MANU"
+	},
+	{
+		"id":"257",
+		"name":"BD. PIERRE DE COUBERTIN"
+	},
+	{
+		"id":"258",
+		"name":"SEBASTIAN"
+	},
+	{
+		"id":"259",
+		"name":"DRUMUL SARII"
+	},
+	{
+		"id":"260",
+		"name":"CIMITIRUL GHENCEA"
+	},
+	{
+		"id":"261",
+		"name":"MASTER"
+	},
+	{
+		"id":"262",
+		"name":"IMPRIMERIA NATIONALA"
+	},
+	{
+		"id":"263",
+		"name":"AUTOGARA MILITARI"
+	},
+	{
+		"id":"264",
+		"name":"APUSULUI"
+	},
+	{
+		"id":"265",
+		"name":"VALEA LUNGA"
+	},
+	{
+		"id":"266",
+		"name":"PIATA GORJULUI"
+	},
+	{
+		"id":"267",
+		"name":"RASARITULUI"
+	},
+	{
+		"id":"268",
+		"name":"VETERANILOR"
+	},
+	{
+		"id":"269",
+		"name":"LUJERULUI"
+	},
+	{
+		"id":"270",
+		"name":"LICEUL TUDOR VLADIMIRESCU"
+	},
+	{
+		"id":"271",
+		"name":"U.P.B."
+	},
+	{
+		"id":"272",
+		"name":"FACULTATEA ELECTRONICA"
+	},
+	{
+		"id":"273",
+		"name":"PIATA LEUL"
+	},
+	{
+		"id":"274",
+		"name":"CAROL DAVILA"
+	},
+	{
+		"id":"275",
+		"name":"POD COTROCENI"
+	},
+	{
+		"id":"276",
+		"name":"CASA STUDENTILOR"
+	},
+	{
+		"id":"277",
+		"name":"PIATA MIHAIL KOGALNICEANU"
+	},
+	{
+		"id":"278",
+		"name":"GRADINA CISMIGIU"
+	},
+	{
+		"id":"279",
+		"name":"UNIVERSITATE"
+	},
+	{
+		"id":"280",
+		"name":"PIATA ROSETTI"
+	},
+	{
+		"id":"281",
+		"name":"TEATRUL NATIONAL"
+	},
+	{
+		"id":"282",
+		"name":"FACULTATEA DE DREPT"
+	},
+	{
+		"id":"283",
+		"name":"STIRBEI VODA"
+	},
+	{
+		"id":"284",
+		"name":"GRADINA BOTANICA"
+	},
+	{
+		"id":"285",
+		"name":"BD. G-RAL VASILE MILEA"
+	},
+	{
+		"id":"286",
+		"name":"WITING"
+	},
+	{
+		"id":"287",
+		"name":"NUFARUL"
+	},
+	{
+		"id":"288",
+		"name":"METRO MILITARI"
+	},
+	{
+		"id":"289",
+		"name":"VICTORIA"
+	},
+	{
+		"id":"290",
+		"name":"GRUP SCOLAR AUTO"
+	},
+	{
+		"id":"291",
+		"name":"BD. DINICU GOLESCU"
+	},
+	{
+		"id":"292",
+		"name":"MINISTERUL TRANSPORTURILOR"
+	},
+	{
+		"id":"293",
+		"name":"DRIDU"
+	},
+	{
+		"id":"294",
+		"name":"FAUREI"
+	},
+	{
+		"id":"295",
+		"name":"PIATA PAJURA"
+	},
+	{
+		"id":"296",
+		"name":"R.A.R."
+	},
+	{
+		"id":"297",
+		"name":"LAINICI"
+	},
+	{
+		"id":"298",
+		"name":"KIEV"
+	},
+	{
+		"id":"299",
+		"name":"GRIRO"
+	},
+	{
+		"id":"300",
+		"name":"CARAIMAN"
+	},
+	{
+		"id":"301",
+		"name":"CIMITIRUL SFANTA VINERI"
+	},
+	{
+		"id":"302",
+		"name":"STOICA LUDESCU"
+	},
+	{
+		"id":"303",
+		"name":"SOSEAUA NICOLAE TITULESCU"
+	},
+	{
+		"id":"304",
+		"name":"POLIZU"
+	},
+	{
+		"id":"305",
+		"name":"SFINTII VOIEVOZI"
+	},
+	{
+		"id":"306",
+		"name":"CALEA GRIVITEI"
+	},
+	{
+		"id":"307",
+		"name":"NICOLAE TITULESCU"
+	},
+	{
+		"id":"308",
+		"name":"SPITALUL FUNDENI"
+	},
+	{
+		"id":"309",
+		"name":"BALOTULUI"
+	},
+	{
+		"id":"310",
+		"name":"CREMENITA (PIATA COLENTINA)"
+	},
+	{
+		"id":"311",
+		"name":"FAINARI"
+	},
+	{
+		"id":"312",
+		"name":"ARMENEASCA"
+	},
+	{
+		"id":"313",
+		"name":"CALEA MOSILOR"
+	},
+	{
+		"id":"314",
+		"name":"SUVEICA"
+	},
+	{
+		"id":"315",
+		"name":"VALEA ARGESULUI"
+	},
+	{
+		"id":"316",
+		"name":"DRUMUL TABEREI 98"
+	},
+	{
+		"id":"317",
+		"name":"ALEEA VLASIEI"
+	},
+	{
+		"id":"318",
+		"name":"LICEUL EUGEN LOVINESCU"
+	},
+	{
+		"id":"319",
+		"name":"1 MAI"
+	},
+	{
+		"id":"320",
+		"name":"DRUMETUL"
+	},
+	{
+		"id":"321",
+		"name":"FAVORIT"
+	},
+	{
+		"id":"322",
+		"name":"ORIZONT"
+	},
+	{
+		"id":"323",
+		"name":"FOISORUL DE FOC"
+	},
+	{
+		"id":"324",
+		"name":"AVRIG"
+	},
+	{
+		"id":"325",
+		"name":"GARA OBOR"
+	},
+	{
+		"id":"326",
+		"name":"OBORUL NOU"
+	},
+	{
+		"id":"327",
+		"name":"BD.TIMISOARA"
+	},
+	{
+		"id":"328",
+		"name":"RAUL DOAMNEI"
+	},
+	{
+		"id":"329",
+		"name":"POSTA"
+	},
+	{
+		"id":"330",
+		"name":"LICEUL NICHITA STANESCU"
+	},
+	{
+		"id":"331",
+		"name":"CONSTANTIN BRANCUSI"
+	},
+	{
+		"id":"332",
+		"name":"I.O.R."
+	},
+	{
+		"id":"333",
+		"name":"SOSEAUA CAMPIA LIBERTATII"
+	},
+	{
+		"id":"334",
+		"name":"ION TUCULESCU"
+	},
+	{
+		"id":"335",
+		"name":"AMAZOANEI"
+	},
+	{
+		"id":"336",
+		"name":"BD. DECEBAL"
+	},
+	{
+		"id":"337",
+		"name":"CALEA CALARASILOR"
+	},
+	{
+		"id":"338",
+		"name":"BISERICA DELEA VECHE"
+	},
+	{
+		"id":"339",
+		"name":"TEPES VODA"
+	},
+	{
+		"id":"340",
+		"name":"MATEI VOIEVOD"
+	},
+	{
+		"id":"341",
+		"name":"TRAIAN"
+	},
+	{
+		"id":"342",
+		"name":"INVINGATORILOR"
+	},
+	{
+		"id":"343",
+		"name":"TURNU MAGURELE"
+	},
+	{
+		"id":"344",
+		"name":"ALIORULUI"
+	},
+	{
+		"id":"345",
+		"name":"STRADUINTEI"
+	},
+	{
+		"id":"346",
+		"name":"DRAGOS MLADINOVICI"
+	},
+	{
+		"id":"347",
+		"name":"EMIL RACOVITA"
+	},
+	{
+		"id":"348",
+		"name":"SPITALUL DR. ALEXANDRU OBREGIA"
+	},
+	{
+		"id":"349",
+		"name":"ALEEA RAUL TARGULUI"
+	},
+	{
+		"id":"350",
+		"name":"CICEU"
+	},
+	{
+		"id":"351",
+		"name":"BD. ALEXANDRU OBREGIA"
+	},
+	{
+		"id":"352",
+		"name":"NITU VASILE"
+	},
+	{
+		"id":"353",
+		"name":"PIATA RESITA"
+	},
+	{
+		"id":"354",
+		"name":"STRAJA"
+	},
+	{
+		"id":"355",
+		"name":"IZVORUL RECE"
+	},
+	{
+		"id":"356",
+		"name":"BD. CONSTANTIN BRANCOVEANU"
+	},
+	{
+		"id":"357",
+		"name":"RESITA"
+	},
+	{
+		"id":"358",
+		"name":"PIATA SPANIEI"
+	},
+	{
+		"id":"359",
+		"name":"PIATA ROMANA"
+	},
+	{
+		"id":"360",
+		"name":"CALEA VICTORIEI"
+	},
+	{
+		"id":"361",
+		"name":"BD. ALEXANDRU IOAN CUZA"
+	},
+	{
+		"id":"362",
+		"name":"LICEUL EC. VIRGIL MADGEARU"
+	},
+	{
+		"id":"363",
+		"name":"BERZEI"
+	},
+	{
+		"id":"364",
+		"name":"AURA BUZESCU"
+	},
+	{
+		"id":"365",
+		"name":"AGRICULTORILOR"
+	},
+	{
+		"id":"366",
+		"name":"MECET"
+	},
+	{
+		"id":"367",
+		"name":"SCOALA IANCULUI"
+	},
+	{
+		"id":"368",
+		"name":"DUMITRU MARINESCU"
+	},
+	{
+		"id":"369",
+		"name":"TACERII"
+	},
+	{
+		"id":"370",
+		"name":"MANEA SERBAN"
+	},
+	{
+		"id":"371",
+		"name":"TRIMBITEI"
+	},
+	{
+		"id":"372",
+		"name":"PIATA 13 SEPTEMBRIE"
+	},
+	{
+		"id":"373",
+		"name":"NABUCULUI"
+	},
+	{
+		"id":"374",
+		"name":"LT. NICOLAE GAINA"
+	},
+	{
+		"id":"375",
+		"name":"TRAMBITEI"
+	},
+	{
+		"id":"376",
+		"name":"BD.CHISINAU"
+	},
+	{
+		"id":"377",
+		"name":"PARCUL TITAN"
+	},
+	{
+		"id":"378",
+		"name":"POLICLINICA TITAN"
+	},
+	{
+		"id":"379",
+		"name":"SOLD. MIHALE STELIAN"
+	},
+	{
+		"id":"380",
+		"name":"CODRII NEAMTULUI"
+	},
+	{
+		"id":"381",
+		"name":"COMPLEX COMERCIAL TITAN"
+	},
+	{
+		"id":"382",
+		"name":"SOSEAUA MIHAI BRAVU 33"
+	},
+	{
+		"id":"383",
+		"name":"CORA PANTELIMON"
+	},
+	{
+		"id":"384",
+		"name":"SOSEAUA DUDESTI-PANTELIMON"
+	},
+	{
+		"id":"385",
+		"name":"GRANITUL"
+	},
+	{
+		"id":"386",
+		"name":"SPITALUL NICOLAE MALAXA"
+	},
+	{
+		"id":"387",
+		"name":"BODESTI"
+	},
+	{
+		"id":"388",
+		"name":"FACULTATEA DE POMPIERI"
+	},
+	{
+		"id":"389",
+		"name":"SOS. MORARILOR"
+	},
+	{
+		"id":"390",
+		"name":"TANDAREI"
+	},
+	{
+		"id":"391",
+		"name":"C.E.T. SUD VITAN"
+	},
+	{
+		"id":"392",
+		"name":"GRUP SCOLAR IND. REPUBLICA"
+	},
+	{
+		"id":"393",
+		"name":"MEIULUI"
+	},
+	{
+		"id":"394",
+		"name":"COMPLEX COMERCIAL"
+	},
+	{
+		"id":"395",
+		"name":"SCOALA GENERALA 55"
+	},
+	{
+		"id":"396",
+		"name":"BUCUR"
+	},
+	{
+		"id":"397",
+		"name":"SOLDAT RADU TINA"
+	},
+	{
+		"id":"398",
+		"name":"CATANOAIA"
+	},
+	{
+		"id":"399",
+		"name":"SOSEAUA GARII CATELU"
+	},
+	{
+		"id":"400",
+		"name":"I. C. M. E. POARTA 1"
+	},
+	{
+		"id":"401",
+		"name":"FABRICA DE OXIGEN"
+	},
+	{
+		"id":"402",
+		"name":"ISOVOLTA"
+	},
+	{
+		"id":"403",
+		"name":"I.C.M.E.  POARTA 1"
+	},
+	{
+		"id":"404",
+		"name":"S.C. BUCUR"
+	},
+	{
+		"id":"405",
+		"name":"SPITALUL PANTELIMON"
+	},
+	{
+		"id":"406",
+		"name":"SOSEAUA FUNDENI"
+	},
+	{
+		"id":"407",
+		"name":"PIATA ALBA IULIA"
+	},
+	{
+		"id":"408",
+		"name":"LUCIAN BLAGA"
+	},
+	{
+		"id":"409",
+		"name":"BIBLIOTECA NATIONALA A ROMANIE"
+	},
+	{
+		"id":"410",
+		"name":"BD. I. C. BRATIANU"
+	},
+	{
+		"id":"411",
+		"name":"PIATA NATIUNILE UNITE"
+	},
+	{
+		"id":"412",
+		"name":"ELIE RADU"
+	},
+	{
+		"id":"413",
+		"name":"POD IZVOR"
+	},
+	{
+		"id":"414",
+		"name":"POD HASDEU"
+	},
+	{
+		"id":"415",
+		"name":"OPERA NATIONALA"
+	},
+	{
+		"id":"416",
+		"name":"POD EROILOR"
+	},
+	{
+		"id":"417",
+		"name":"FACULTATEA MEDICINA VETERINARA"
+	},
+	{
+		"id":"418",
+		"name":"PIATA UNIRII 1"
+	},
+	{
+		"id":"419",
+		"name":"MAIOR CORAVU"
+	},
+	{
+		"id":"420",
+		"name":"GHIDIGENI"
+	},
+	{
+		"id":"421",
+		"name":"DRUMUL COOPERATIVEI"
+	},
+	{
+		"id":"422",
+		"name":"PIATA DRUMUL TABEREI"
+	},
+	{
+		"id":"423",
+		"name":"DRUMUL TABEREI 35"
+	},
+	{
+		"id":"424",
+		"name":"PODUL GROZAVESTI"
+	},
+	{
+		"id":"425",
+		"name":"SOSEAUA ORHIDEELOR"
+	},
+	{
+		"id":"426",
+		"name":"TRAIAN VASILE"
+	},
+	{
+		"id":"427",
+		"name":"SPITALUL CFR 2"
+	},
+	{
+		"id":"428",
+		"name":"BD. REGIEI"
+	},
+	{
+		"id":"429",
+		"name":"DRUMUL TABEREI 34"
+	},
+	{
+		"id":"430",
+		"name":"PRELUNGIREA GHENCEA"
+	},
+	{
+		"id":"431",
+		"name":"ROSIA MONTANA"
+	},
+	{
+		"id":"432",
+		"name":"DEZROBIRII"
+	},
+	{
+		"id":"433",
+		"name":"CIMITIRUL MILITARI"
+	},
+	{
+		"id":"434",
+		"name":"ARAGONITULUI"
+	},
+	{
+		"id":"435",
+		"name":"GHIRLANDEI"
+	},
+	{
+		"id":"436",
+		"name":"MARGELELOR"
+	},
+	{
+		"id":"437",
+		"name":"BD. ANUL 1864"
+	},
+	{
+		"id":"438",
+		"name":"CATINEI"
+	},
+	{
+		"id":"439",
+		"name":"CARTIER ROSU"
+	},
+	{
+		"id":"440",
+		"name":"TUFANELELOR"
+	},
+	{
+		"id":"441",
+		"name":"STRAMOSILOR"
+	},
+	{
+		"id":"442",
+		"name":"BD.UVERTURII"
+	},
+	{
+		"id":"443",
+		"name":"TEATRUL MASCA"
+	},
+	{
+		"id":"444",
+		"name":"PASAJ LUJERULUI"
+	},
+	{
+		"id":"445",
+		"name":"C.F.R. CONSTANTA"
+	},
+	{
+		"id":"446",
+		"name":"PIPERA"
+	},
+	{
+		"id":"447",
+		"name":"MARIN DRACEA"
+	},
+	{
+		"id":"448",
+		"name":"BARBU VACARESCU"
+	},
+	{
+		"id":"449",
+		"name":"AUREL VLAICU"
+	},
+	{
+		"id":"450",
+		"name":"NICOLAE CARAMFIL"
+	},
+	{
+		"id":"451",
+		"name":"PASAJUL AVIATIEI"
+	},
+	{
+		"id":"452",
+		"name":"AEROPORTUL BANEASA"
+	},
+	{
+		"id":"453",
+		"name":"BRODINA"
+	},
+	{
+		"id":"454",
+		"name":"BIOTERRA"
+	},
+	{
+		"id":"455",
+		"name":"CORALILOR"
+	},
+	{
+		"id":"456",
+		"name":"NUFERILOR"
+	},
+	{
+		"id":"457",
+		"name":"FORADEX"
+	},
+	{
+		"id":"458",
+		"name":"COMBINATUL FONDULUI PLASTIC"
+	},
+	{
+		"id":"459",
+		"name":"JIULUI"
+	},
+	{
+		"id":"460",
+		"name":"DEPOZIT PAJURA"
+	},
+	{
+		"id":"461",
+		"name":"PARCUL BAZILESCU"
+	},
+	{
+		"id":"462",
+		"name":"JIMBOLIA"
+	},
+	{
+		"id":"463",
+		"name":"EPISCOPUL VULCAN"
+	},
+	{
+		"id":"464",
+		"name":"LAROMET"
+	},
+	{
+		"id":"465",
+		"name":"PRECIZIA"
+	},
+	{
+		"id":"466",
+		"name":"TRUSESTI"
+	},
+	{
+		"id":"467",
+		"name":"OASULUI"
+	},
+	{
+		"id":"468",
+		"name":"MIHAI VITEAZUL"
+	},
+	{
+		"id":"469",
+		"name":"MAICA TEOFANA"
+	},
+	{
+		"id":"470",
+		"name":"SOLD. ADRIAN PATRU"
+	},
+	{
+		"id":"471",
+		"name":"COMPLEX COMERCIAL COLOSSEUM"
+	},
+	{
+		"id":"472",
+		"name":"MAICA  TEOFANA"
+	},
+	{
+		"id":"473",
+		"name":"BD. LAMINORULUI"
+	},
+	{
+		"id":"474",
+		"name":"FACULTATEA BIOTERRA"
+	},
+	{
+		"id":"475",
+		"name":"SOSEAUA BUCURESTI-PLOIESTI"
+	},
+	{
+		"id":"476",
+		"name":"HOTEL PHOENICIA"
+	},
+	{
+		"id":"477",
+		"name":"CARUTASILOR"
+	},
+	{
+		"id":"478",
+		"name":"PIATA SFANTA VINERI"
+	},
+	{
+		"id":"479",
+		"name":"BD. MARASESTI"
+	},
+	{
+		"id":"480",
+		"name":"CIMITIRUL EROILOR REVOLUTIEI"
+	},
+	{
+		"id":"481",
+		"name":"OPRIS ILIE"
+	},
+	{
+		"id":"482",
+		"name":"SECUILOR"
+	},
+	{
+		"id":"483",
+		"name":"SPITALUL DE COPII"
+	},
+	{
+		"id":"484",
+		"name":"IZVORUL CRISULUI"
+	},
+	{
+		"id":"485",
+		"name":"LAMOTESTI"
+	},
+	{
+		"id":"486",
+		"name":"IZVORUL OLTULUI"
+	},
+	{
+		"id":"487",
+		"name":"UCEA"
+	},
+	{
+		"id":"488",
+		"name":"ANGHEL ALEXANDRU"
+	},
+	{
+		"id":"489",
+		"name":"RADUCANU CRISTEA"
+	},
+	{
+		"id":"490",
+		"name":"GARA PROGRESUL"
+	},
+	{
+		"id":"491",
+		"name":"COVASNA"
+	},
+	{
+		"id":"492",
+		"name":"MIRCEA VODA"
+	},
+	{
+		"id":"493",
+		"name":"MATEI BASARAB"
+	},
+	{
+		"id":"494",
+		"name":"CARTIER CONFORT URBAN"
+	},
+	{
+		"id":"495",
+		"name":"PIATA PUCHENI"
+	},
+	{
+		"id":"496",
+		"name":"BACAU"
+	},
+	{
+		"id":"497",
+		"name":"AMURGULUI"
+	},
+	{
+		"id":"498",
+		"name":"PECINEAGA"
+	},
+	{
+		"id":"499",
+		"name":"FABRICA DE PAINE"
+	},
+	{
+		"id":"500",
+		"name":"DOINA"
+	},
+	{
+		"id":"501",
+		"name":"SOS. VIILOR"
+	},
+	{
+		"id":"502",
+		"name":"NASAUD"
+	},
+	{
+		"id":"503",
+		"name":"PIATA 21 DECEMBRIE 1989"
+	},
+	{
+		"id":"504",
+		"name":"SPITALUL UNIVERSITAR"
+	},
+	{
+		"id":"505",
+		"name":"UNIVERSITATEA NATIONALA DE APA"
+	},
+	{
+		"id":"506",
+		"name":"DR. MIHAI CIUCA"
+	},
+	{
+		"id":"507",
+		"name":"SPITALUL DR. TH. BURGHELE"
+	},
+	{
+		"id":"508",
+		"name":"SOSEAUA PANDURILOR"
+	},
+	{
+		"id":"509",
+		"name":"GARLENI"
+	},
+	{
+		"id":"510",
+		"name":"CARTIER TUDOR VLADIMIRESCU"
+	},
+	{
+		"id":"511",
+		"name":"COSTISA"
+	},
+	{
+		"id":"512",
+		"name":"ANSAMBLUL PRIMAVARA"
+	},
+	{
+		"id":"513",
+		"name":"SERE MILITARI"
+	},
+	{
+		"id":"514",
+		"name":"DRUMUL FUNIGEILOR"
+	},
+	{
+		"id":"515",
+		"name":"MAGNOLIEI"
+	},
+	{
+		"id":"516",
+		"name":"CARTIERUL LATIN"
+	},
+	{
+		"id":"517",
+		"name":"COMPLEX CARTIER LATIN"
+	},
+	{
+		"id":"518",
+		"name":"SPITALUL DR. BURGHELE"
+	},
+	{
+		"id":"519",
+		"name":"DR.MIHAI CIUCA"
+	},
+	{
+		"id":"520",
+		"name":"PROFESOR DR. RAINER"
+	},
+	{
+		"id":"521",
+		"name":"PIATA OPEREI"
+	},
+	{
+		"id":"522",
+		"name":"CONSTANTIN CRISTESCU"
+	},
+	{
+		"id":"523",
+		"name":"BD. NICOLAE BALCESCU"
+	},
+	{
+		"id":"524",
+		"name":"BUCURESTI MALL"
+	},
+	{
+		"id":"525",
+		"name":"STADION OLIMPIA"
+	},
+	{
+		"id":"526",
+		"name":"COMPLEX COMERCIAL VITAN"
+	},
+	{
+		"id":"527",
+		"name":"ENERGETICIENILOR"
+	},
+	{
+		"id":"528",
+		"name":"PRIMARIA SECTOR 6"
+	},
+	{
+		"id":"529",
+		"name":"POD VITAN"
+	},
+	{
+		"id":"530",
+		"name":"COMPLEX COMERCIAL VITAN BARZES"
+	},
+	{
+		"id":"531",
+		"name":"SPITALUL SF. IOAN"
+	},
+	{
+		"id":"532",
+		"name":"INML"
+	},
+	{
+		"id":"533",
+		"name":"SOSEAUA VITAN BARZESTI"
+	},
+	{
+		"id":"534",
+		"name":"ROMPRIM"
+	},
+	{
+		"id":"535",
+		"name":"SOSEAUA OLTENITEI"
+	},
+	{
+		"id":"536",
+		"name":"CARTIER VITAN BARZESTI"
+	},
+	{
+		"id":"537",
+		"name":"POD VITAN BARZESTI"
+	},
+	{
+		"id":"538",
+		"name":"FUNDATIA ''AISTEDA''"
+	},
+	{
+		"id":"539",
+		"name":"UZITEX"
+	},
+	{
+		"id":"540",
+		"name":"PISCUL RACHITEI"
+	},
+	{
+		"id":"541",
+		"name":"POD MIHAI BRAVU"
+	},
+	{
+		"id":"542",
+		"name":"PENES CURCANUL"
+	},
+	{
+		"id":"543",
+		"name":"VULCAN BERCENI"
+	},
+	{
+		"id":"544",
+		"name":"I.M.G.B. POARTA 3"
+	},
+	{
+		"id":"545",
+		"name":"DUMITRU BRUMARESCU"
+	},
+	{
+		"id":"546",
+		"name":"BD. METALURGIEI 136"
+	},
+	{
+		"id":"547",
+		"name":"METRO BERCENI"
+	},
+	{
+		"id":"548",
+		"name":"SERE"
+	},
+	{
+		"id":"549",
+		"name":"EDITURA ARAMIS"
+	},
+	{
+		"id":"550",
+		"name":"CARTIER APARATORII PATRIEI"
+	},
+	{
+		"id":"551",
+		"name":"COMISANI"
+	},
+	{
+		"id":"552",
+		"name":"BD. METALURGIEI"
+	},
+	{
+		"id":"553",
+		"name":"I.M.G.B. POARTA 1"
+	},
+	{
+		"id":"554",
+		"name":"I. M. G. B. POARTA 2"
+	},
+	{
+		"id":"555",
+		"name":"UPETROLAM"
+	},
+	{
+		"id":"556",
+		"name":"SOS. BERCENI 104 S"
+	},
+	{
+		"id":"557",
+		"name":"SOS. BERCENI 104"
+	},
+	{
+		"id":"558",
+		"name":"SOSEAUA DE CENTURA"
+	},
+	{
+		"id":"559",
+		"name":"FACULTATIVA"
+	},
+	{
+		"id":"560",
+		"name":"REMAT"
+	},
+	{
+		"id":"561",
+		"name":"PECO SILFLOR MOVE"
+	},
+	{
+		"id":"562",
+		"name":"I. M. G. B. POARTA 1"
+	},
+	{
+		"id":"563",
+		"name":"PIATA APARATORII PATRIEI"
+	},
+	{
+		"id":"564",
+		"name":"PLATFORMA  METALURGIEI"
+	},
+	{
+		"id":"565",
+		"name":"NICOLAE GOLESCU"
+	},
+	{
+		"id":"566",
+		"name":"LUTERANA"
+	},
+	{
+		"id":"567",
+		"name":"POPA TATU"
+	},
+	{
+		"id":"568",
+		"name":"BD. GHENCEA"
+	},
+	{
+		"id":"569",
+		"name":"BD.NICOLAE BALCESCU"
+	},
+	{
+		"id":"570",
+		"name":"A.S.E."
+	},
+	{
+		"id":"571",
+		"name":"PERLA"
+	},
+	{
+		"id":"572",
+		"name":"LICEUL ION LUCA CARAGIALE"
+	},
+	{
+		"id":"573",
+		"name":"PIATA DOROBANTILOR"
+	},
+	{
+		"id":"574",
+		"name":"PIATA CHARLES DE GAULLE"
+	},
+	{
+		"id":"575",
+		"name":"ARCUL DE TRIUMF"
+	},
+	{
+		"id":"576",
+		"name":"MUZEUL SATULUI"
+	},
+	{
+		"id":"577",
+		"name":"GARA BANEASA"
+	},
+	{
+		"id":"578",
+		"name":"POD BANEASA"
+	},
+	{
+		"id":"579",
+		"name":"AEROPORT BANEASA"
+	},
+	{
+		"id":"580",
+		"name":"COMPLEX COMERCIAL BANEASA"
+	},
+	{
+		"id":"581",
+		"name":"PIATA  DOROBANTILOR"
+	},
+	{
+		"id":"582",
+		"name":"BD.DACIA"
+	},
+	{
+		"id":"583",
+		"name":"BD.UNIRII"
+	},
+	{
+		"id":"584",
+		"name":"PIATA TIMPURI NOI"
+	},
+	{
+		"id":"585",
+		"name":"BD. ABATORULUI"
+	},
+	{
+		"id":"586",
+		"name":"BD.TINERETULUI"
+	},
+	{
+		"id":"587",
+		"name":"ANCUTA BANEASA"
+	},
+	{
+		"id":"588",
+		"name":"MIRCEA ELIADE"
+	},
+	{
+		"id":"589",
+		"name":"GEORGE CALINESCU"
+	},
+	{
+		"id":"590",
+		"name":"PIATA FLOREASCA"
+	},
+	{
+		"id":"591",
+		"name":"STADIONUL DINAMO"
+	},
+	{
+		"id":"592",
+		"name":"SOS.STEFAN CEL MARE"
+	},
+	{
+		"id":"593",
+		"name":"GLINKA"
+	},
+	{
+		"id":"594",
+		"name":"C.E.T. VEST MILITARI"
+	},
+	{
+		"id":"595",
+		"name":"FIROS"
+	},
+	{
+		"id":"596",
+		"name":"ITIA"
+	},
+	{
+		"id":"597",
+		"name":"COMAT AUTO"
+	},
+	{
+		"id":"598",
+		"name":"PIATA ARSENALULUI"
+	},
+	{
+		"id":"599",
+		"name":"CASA ACADEMIEI"
+	},
+	{
+		"id":"600",
+		"name":"PALATUL PARLAMENTULUI"
+	},
+	{
+		"id":"601",
+		"name":"BD. B.P.HASDEU"
+	},
+	{
+		"id":"602",
+		"name":"UNIV. NATIONALA DE APARARE"
+	},
+	{
+		"id":"603",
+		"name":"BD. PRECIZIEI"
+	},
+	{
+		"id":"604",
+		"name":"CARREFOUR MILITARI"
+	},
+	{
+		"id":"605",
+		"name":"COMPLEX COMERCIAL WEST PARK"
+	},
+	{
+		"id":"606",
+		"name":"SCOALA GENERALA 309"
+	},
+	{
+		"id":"607",
+		"name":"PETUNIEI"
+	},
+	{
+		"id":"608",
+		"name":"CARTIER MILITARI"
+	},
+	{
+		"id":"609",
+		"name":"COMPLEX COMERCIAL MILITARI"
+	},
+	{
+		"id":"610",
+		"name":"CENTRUL COMERCIAL MILITARI"
+	},
+	{
+		"id":"611",
+		"name":"PIATA FERENTARILOR"
+	},
+	{
+		"id":"612",
+		"name":"CAP. PREDA"
+	},
+	{
+		"id":"613",
+		"name":"BUZOIENI"
+	},
+	{
+		"id":"614",
+		"name":"MUNTII CARPATI"
+	},
+	{
+		"id":"615",
+		"name":"ROCAR"
+	},
+	{
+		"id":"616",
+		"name":"SUHAIA"
+	},
+	{
+		"id":"617",
+		"name":"DOROHOI"
+	},
+	{
+		"id":"618",
+		"name":"CONSTANTA"
+	},
+	{
+		"id":"619",
+		"name":"SCUT - GHERASE"
+	},
+	{
+		"id":"620",
+		"name":"SCOALA GENERALA 145"
+	},
+	{
+		"id":"621",
+		"name":"DUMITRU SLUGERU"
+	},
+	{
+		"id":"622",
+		"name":"DIMITRIE GROZDEA"
+	},
+	{
+		"id":"623",
+		"name":"HELIADE INTRE VII"
+	},
+	{
+		"id":"624",
+		"name":"HOTEL PARC"
+	},
+	{
+		"id":"625",
+		"name":"CITY CENTER"
+	},
+	{
+		"id":"626",
+		"name":"CASA PRESEI"
+	},
+	{
+		"id":"627",
+		"name":"MAGAZIILE 16 FEBRUARIE"
+	},
+	{
+		"id":"628",
+		"name":"CONDAX"
+	},
+	{
+		"id":"629",
+		"name":"MUZEUL CULTURII ROMILOR"
+	},
+	{
+		"id":"630",
+		"name":"PODUL ILFOVAT"
+	},
+	{
+		"id":"631",
+		"name":"RUSETU"
+	},
+	{
+		"id":"632",
+		"name":"MEHADIEI"
+	},
+	{
+		"id":"633",
+		"name":"BD. CEAHLAU"
+	},
+	{
+		"id":"634",
+		"name":"SPITALUL DR. PANAIT SARBU"
+	},
+	{
+		"id":"635",
+		"name":"PASCAL CRISTIAN"
+	},
+	{
+		"id":"636",
+		"name":"TIBLES"
+	},
+	{
+		"id":"637",
+		"name":"SOS. CRANGASI"
+	},
+	{
+		"id":"638",
+		"name":"GIULESTI SARBI"
+	},
+	{
+		"id":"639",
+		"name":"RASADNITEI"
+	},
+	{
+		"id":"640",
+		"name":"SCOALA"
+	},
+	{
+		"id":"641",
+		"name":"SCULPTORILOR"
+	},
+	{
+		"id":"642",
+		"name":"INTRAREA CARAMIDARIEI"
+	},
+	{
+		"id":"643",
+		"name":"POIANA LACULUI"
+	},
+	{
+		"id":"644",
+		"name":"POIANA MUNTELUI"
+	},
+	{
+		"id":"645",
+		"name":"PIATA VALEA IALOMITEI"
+	},
+	{
+		"id":"646",
+		"name":"VALEA DOFTANEI"
+	},
+	{
+		"id":"647",
+		"name":"PARCUL CONSTANTIN BRANCUSI"
+	},
+	{
+		"id":"648",
+		"name":"CARTIER CONSTANTIN BRANCUSI"
+	},
+	{
+		"id":"649",
+		"name":"COLOANA INFINITULUI"
+	},
+	{
+		"id":"650",
+		"name":"MASA TACERII"
+	},
+	{
+		"id":"651",
+		"name":"DRUMUL TABEREI 85"
+	},
+	{
+		"id":"652",
+		"name":"PARCUL SEBASTIAN"
+	},
+	{
+		"id":"653",
+		"name":"INCLINATA"
+	},
+	{
+		"id":"654",
+		"name":"COMPLEX COMERCIAL APUSULUI"
+	},
+	{
+		"id":"655",
+		"name":"PIATA VIRGILIU"
+	},
+	{
+		"id":"656",
+		"name":"SALA PALATULUI"
+	},
+	{
+		"id":"657",
+		"name":"DRUMUL OSIEI"
+	},
+	{
+		"id":"658",
+		"name":"G-RAL  ALEXANDRU CERNAT"
+	},
+	{
+		"id":"659",
+		"name":"PETRU RARES"
+	},
+	{
+		"id":"660",
+		"name":"SALA LUCIAN GRIGORESCU"
+	},
+	{
+		"id":"661",
+		"name":"CALEA FLOREASCA"
+	},
+	{
+		"id":"662",
+		"name":"GARIBALDI"
+	},
+	{
+		"id":"663",
+		"name":"MIHAIL GLINKA"
+	},
+	{
+		"id":"664",
+		"name":"CIRCUL BUCURESTI"
+	},
+	{
+		"id":"665",
+		"name":"LUIGI GALVANI"
+	},
+	{
+		"id":"666",
+		"name":"INSTITUTUL DE CONSTRUCTII"
+	},
+	{
+		"id":"667",
+		"name":"GRIGORE IONESCU"
+	},
+	{
+		"id":"668",
+		"name":"RADOVANU"
+	},
+	{
+		"id":"669",
+		"name":"ITCANI"
+	},
+	{
+		"id":"670",
+		"name":"INSTITUTUL ONCOLOGIC"
+	},
+	{
+		"id":"671",
+		"name":"LICEUL VICTOR BABES"
+	},
+	{
+		"id":"672",
+		"name":"F. C. JUVENTUS"
+	},
+	{
+		"id":"673",
+		"name":"BD. GHICA TEI"
+	},
+	{
+		"id":"674",
+		"name":"BASCOV"
+	},
+	{
+		"id":"675",
+		"name":"AREFULUI"
+	},
+	{
+		"id":"676",
+		"name":"DANTELEI"
+	},
+	{
+		"id":"677",
+		"name":"LAVEI"
+	},
+	{
+		"id":"678",
+		"name":"CIMITIRUL GHENCEA 3"
+	},
+	{
+		"id":"679",
+		"name":"STRAND STRAULESTI"
+	},
+	{
+		"id":"680",
+		"name":"SOS.BUCURESTI TARGOVISTE"
+	},
+	{
+		"id":"681",
+		"name":"LACUL GRIVITA"
+	},
+	{
+		"id":"682",
+		"name":"PISCUL SCOARTEI"
+	},
+	{
+		"id":"683",
+		"name":"PISCUL RADULUI"
+	},
+	{
+		"id":"684",
+		"name":"DRUMUL REGIMENTULUI"
+	},
+	{
+		"id":"685",
+		"name":"DARMANESTI"
+	},
+	{
+		"id":"686",
+		"name":"BD. APICULTORILOR"
+	},
+	{
+		"id":"687",
+		"name":"MANASTIREA CASIN"
+	},
+	{
+		"id":"688",
+		"name":"VASILE GHERGHEL"
+	},
+	{
+		"id":"689",
+		"name":"SPITALUL CLINIC FILANTROPIA"
+	},
+	{
+		"id":"690",
+		"name":"PRIMARIA SECTOR 1"
+	},
+	{
+		"id":"691",
+		"name":"BD. FICUSULUI"
+	},
+	{
+		"id":"692",
+		"name":"HORIA MACELARIU"
+	},
+	{
+		"id":"693",
+		"name":"ROMAERO"
+	},
+	{
+		"id":"694",
+		"name":"ANGHEL MOLDOVEANU"
+	},
+	{
+		"id":"695",
+		"name":"TUDOR GOCIU"
+	},
+	{
+		"id":"696",
+		"name":"DEPOUL GIURGIULUI"
+	},
+	{
+		"id":"697",
+		"name":"POGOANELE"
+	},
+	{
+		"id":"698",
+		"name":"C.E.T. PROGRESUL"
+	},
+	{
+		"id":"699",
+		"name":"ACTIUNII"
+	},
+	{
+		"id":"700",
+		"name":"VALEA IALOMITEI"
+	},
+	{
+		"id":"701",
+		"name":"TEXTILA MILITARI"
+	},
+	{
+		"id":"702",
+		"name":"INTRAREA SERELOR"
+	},
+	{
+		"id":"703",
+		"name":"TABEREI"
+	},
+	{
+		"id":"704",
+		"name":"CARTIER REZ. SPLAIUL UNIRII"
+	},
+	{
+		"id":"705",
+		"name":"NICOLAE TECLU"
+	},
+	{
+		"id":"706",
+		"name":"SPLAIUL UNIRII 749"
+	},
+	{
+		"id":"707",
+		"name":"COMPLEX AUTO SPLAIUL UNIRII"
+	},
+	{
+		"id":"708",
+		"name":"RELEULUI"
+	},
+	{
+		"id":"709",
+		"name":"TEIUS"
+	},
+	{
+		"id":"710",
+		"name":"SOSEAUA MAGURELE"
+	},
+	{
+		"id":"711",
+		"name":"CARACAL"
+	},
+	{
+		"id":"712",
+		"name":"TOBOSARI"
+	},
+	{
+		"id":"713",
+		"name":"GUTUILOR"
+	},
+	{
+		"id":"714",
+		"name":"PETRE GRIGOREANU"
+	},
+	{
+		"id":"715",
+		"name":"SCOALA GENERALA NR. 127"
+	},
+	{
+		"id":"716",
+		"name":"DUMITRU PENES"
+	},
+	{
+		"id":"717",
+		"name":"PLATFORMA COMERCIALA ARCADE BE"
+	},
+	{
+		"id":"718",
+		"name":"TOMESTI"
+	},
+	{
+		"id":"719",
+		"name":"SPITALUL DR. MARINESCU"
+	},
+	{
+		"id":"720",
+		"name":"AMIRO"
+	},
+	{
+		"id":"721",
+		"name":"PIATA SUDULUI"
+	},
+	{
+		"id":"722",
+		"name":"HUSI"
+	},
+	{
+		"id":"723",
+		"name":"TORENTULUI"
+	},
+	{
+		"id":"724",
+		"name":" RAUL COLENTINA"
+	},
+	{
+		"id":"725",
+		"name":"INTRARE SAT CATELU"
+	},
+	{
+		"id":"726",
+		"name":"SAT CATELU"
+	},
+	{
+		"id":"727",
+		"name":"C.F.R. CATELU"
+	},
+	{
+		"id":"728",
+		"name":"SOSEAUA INDUSTRIILOR"
+	},
+	{
+		"id":"729",
+		"name":"PIATA CATELU"
+	},
+	{
+		"id":"730",
+		"name":"MUNTII MEHEDINTI"
+	},
+	{
+		"id":"731",
+		"name":"POLICOLOR 2"
+	},
+	{
+		"id":"732",
+		"name":"PUPITRULUI"
+	},
+	{
+		"id":"733",
+		"name":"DARABANI"
+	},
+	{
+		"id":"734",
+		"name":"IRISULUI"
+	},
+	{
+		"id":"735",
+		"name":"SOSEAUA DUDESTI PANTELIMON"
+	},
+	{
+		"id":"736",
+		"name":"FUNDENI"
+	},
+	{
+		"id":"737",
+		"name":"SPICULUI"
+	},
+	{
+		"id":"738",
+		"name":"INTRAREA FUNDENI"
+	},
+	{
+		"id":"739",
+		"name":"COMPLEX COMERCIAL FUNDENI"
+	},
+	{
+		"id":"740",
+		"name":"BARAJUL DUNARII"
+	},
+	{
+		"id":"741",
+		"name":"ATLASULUI"
+	},
+	{
+		"id":"742",
+		"name":"JANDARMERIEI"
+	},
+	{
+		"id":"743",
+		"name":"GRIGORE ALEXANDRU GHICA"
+	},
+	{
+		"id":"744",
+		"name":"G-RAL ION BUNOAICA"
+	},
+	{
+		"id":"745",
+		"name":"I.N.M.H."
+	},
+	{
+		"id":"746",
+		"name":"INSTITUTUL METEOROLOGIC"
+	},
+	{
+		"id":"747",
+		"name":"DRUMUL MATASII"
+	},
+	{
+		"id":"748",
+		"name":"OASPETILOR"
+	},
+	{
+		"id":"749",
+		"name":"SOSEAUA PETRICANI"
+	},
+	{
+		"id":"750",
+		"name":"MAIOR BACILA"
+	},
+	{
+		"id":"751",
+		"name":"POIANA CU ALUNI"
+	},
+	{
+		"id":"752",
+		"name":"MINERILOR"
+	},
+	{
+		"id":"753",
+		"name":"RASCOALA 1907"
+	},
+	{
+		"id":"754",
+		"name":"BD.LACUL TEI"
+	},
+	{
+		"id":"755",
+		"name":"POVERNEI"
+	},
+	{
+		"id":"756",
+		"name":"MUZEUL TARANULUI ROMAN"
+	},
+	{
+		"id":"757",
+		"name":"SANDU ALDEA"
+	},
+	{
+		"id":"758",
+		"name":"ORLANDO"
+	},
+	{
+		"id":"759",
+		"name":"PARC HERASTRAU"
+	},
+	{
+		"id":"760",
+		"name":"AMBASADA S.U.A."
+	},
+	{
+		"id":"761",
+		"name":"PADUREA BANEASA"
+	},
+	{
+		"id":"762",
+		"name":"RESTAURANT BANEASA"
+	},
+	{
+		"id":"763",
+		"name":"GRADINA ZOOLOGICA"
+	},
+	{
+		"id":"764",
+		"name":"MICROELECTRONICA"
+	},
+	{
+		"id":"765",
+		"name":"JOLIE VILLE BANEASA"
+	},
+	{
+		"id":"766",
+		"name":"ACADEMIA DE POLITIE"
+	},
+	{
+		"id":"767",
+		"name":"TEIULUI"
+	},
+	{
+		"id":"768",
+		"name":"PENITENCIARUL RAHOVA"
+	},
+	{
+		"id":"769",
+		"name":"ALBOTESTI"
+	},
+	{
+		"id":"770",
+		"name":"GLADIOLELOR"
+	},
+	{
+		"id":"771",
+		"name":"CELOFIBREI"
+	},
+	{
+		"id":"772",
+		"name":"SMARDAN"
+	},
+	{
+		"id":"773",
+		"name":"CARTIER FORTUNA COBORARE"
+	},
+	{
+		"id":"774",
+		"name":"CARTIER FORTUNA"
+	},
+	{
+		"id":"775",
+		"name":"VENUS"
+	},
+	{
+		"id":"776",
+		"name":"SOSEAUA VARTEJULUI"
+	},
+	{
+		"id":"777",
+		"name":"SLATINA"
+	},
+	{
+		"id":"778",
+		"name":"CURTEA DE ARGES"
+	},
+	{
+		"id":"779",
+		"name":"PECINISCA"
+	},
+	{
+		"id":"780",
+		"name":"SOSEAUA ALEXANDRIEI"
+	},
+	{
+		"id":"781",
+		"name":"ALEEA PRIVIGHETORILOR"
+	},
+	{
+		"id":"782",
+		"name":"LICEUL FRANCEZ"
+	},
+	{
+		"id":"783",
+		"name":"PASAJ C.F.R.OTOPENI"
+	},
+	{
+		"id":"784",
+		"name":"PASAJ OTOPENI"
+	},
+	{
+		"id":"785",
+		"name":"SAT ODAI"
+	},
+	{
+		"id":"786",
+		"name":"I. C. S. I. M."
+	},
+	{
+		"id":"787",
+		"name":"FERMA ODAI"
+	},
+	{
+		"id":"788",
+		"name":"ADP SECTOR 1"
+	},
+	{
+		"id":"789",
+		"name":"CIMITIRUL STRAULESTI"
+	},
+	{
+		"id":"790",
+		"name":"C.F.R. CENTURA"
+	},
+	{
+		"id":"791",
+		"name":"BD. PETRILA"
+	},
+	{
+		"id":"792",
+		"name":"BUZIAS"
+	},
+	{
+		"id":"793",
+		"name":"DOI COCOSI"
+	},
+	{
+		"id":"794",
+		"name":"CFR CENTURA"
+	},
+	{
+		"id":"795",
+		"name":"SOSEAUA ODAI 179"
+	},
+	{
+		"id":"796",
+		"name":"PASAJ C.F.R. OTOPENI"
+	},
+	{
+		"id":"797",
+		"name":"SOSEAUA BUCURESTI-PLOIESTI 107"
+	},
+	{
+		"id":"798",
+		"name":"POD LACURI"
+	},
+	{
+		"id":"799",
+		"name":"PIATA DE GROS"
+	},
+	{
+		"id":"800",
+		"name":"PRIDVORULUI"
+	},
+	{
+		"id":"801",
+		"name":"COSTACHE STAMATE"
+	},
+	{
+		"id":"802",
+		"name":"PALATUL NATIONAL AL COPIILOR"
+	},
+	{
+		"id":"803",
+		"name":"PARCUL TINERETULUI"
+	},
+	{
+		"id":"804",
+		"name":"VISANA"
+	},
+	{
+		"id":"805",
+		"name":"COLECTIV"
+	},
+	{
+		"id":"806",
+		"name":"C.F.R."
+	},
+	{
+		"id":"807",
+		"name":"SOS. CAMPIA LIBERTATII"
+	},
+	{
+		"id":"808",
+		"name":"INSTITUTUL AGRONOMIC"
+	},
+	{
+		"id":"809",
+		"name":"SOSEAUA MIHAI BRAVU 88"
+	},
+	{
+		"id":"810",
+		"name":"PIATA LAHOVARI"
+	},
+	{
+		"id":"811",
+		"name":"BD. BUCURESTI NOI"
+	},
+	{
+		"id":"812",
+		"name":"SARAFINESTI"
+	},
+	{
+		"id":"813",
+		"name":"ZEFIRUL"
+	},
+	{
+		"id":"814",
+		"name":"DR.STAICOVICI"
+	},
+	{
+		"id":"815",
+		"name":"DR. STAICOVICI"
+	},
+	{
+		"id":"816",
+		"name":"SEMANATOAREA POARTA 2"
+	},
+	{
+		"id":"817",
+		"name":"SEMANATOAREA"
+	},
+	{
+		"id":"818",
+		"name":"POLITEHNICA"
+	},
+	{
+		"id":"819",
+		"name":"PRIMARIA MUNICIPIULUI BUCUREST"
+	},
+	{
+		"id":"820",
+		"name":"E.L.C.E.N."
+	},
+	{
+		"id":"821",
+		"name":"A.N.E.F.S."
+	},
+	{
+		"id":"822",
+		"name":"FACULTATEA DE FILOSOFIE"
+	},
+	{
+		"id":"823",
+		"name":"COMPLEX GROZAVESTI"
+	},
+	{
+		"id":"824",
+		"name":"CAMIN U4"
+	},
+	{
+		"id":"825",
+		"name":"COMPLEX REGIE"
+	},
+	{
+		"id":"826",
+		"name":"G-RAL PETRE POPOVAT"
+	},
+	{
+		"id":"827",
+		"name":"STADION"
+	},
+	{
+		"id":"828",
+		"name":"LUNCA BARZESTI"
+	},
+	{
+		"id":"829",
+		"name":"SOSEAUA BERCENI"
+	},
+	{
+		"id":"830",
+		"name":"MATASARI"
+	},
+	{
+		"id":"831",
+		"name":"SOS.PANTELIMON"
+	},
+	{
+		"id":"832",
+		"name":"OITUZ"
+	},
+	{
+		"id":"833",
+		"name":"PERIS"
+	},
+	{
+		"id":"834",
+		"name":"CIUCA STEFAN"
+	},
+	{
+		"id":"835",
+		"name":"ESCALEI"
+	},
+	{
+		"id":"836",
+		"name":"MENTIUNII"
+	},
+	{
+		"id":"837",
+		"name":"ZAMFIR NICOLAE"
+	},
+	{
+		"id":"838",
+		"name":"GHERGHITEI"
+	},
+	{
+		"id":"839",
+		"name":"SOSEAUA CHITILA"
+	},
+	{
+		"id":"840",
+		"name":"INSTITUTUL SF. MARIA"
+	},
+	{
+		"id":"841",
+		"name":"PRESTIGE"
+	},
+	{
+		"id":"842",
+		"name":"PARAUL RECE"
+	},
+	{
+		"id":"843",
+		"name":"CAZANESTI"
+	},
+	{
+		"id":"844",
+		"name":"PRIMARIA POPESTI-LEORDENI"
+	},
+	{
+		"id":"845",
+		"name":"VIILOR"
+	},
+	{
+		"id":"846",
+		"name":"FAGULUI"
+	},
+	{
+		"id":"847",
+		"name":"VISCOFIL"
+	},
+	{
+		"id":"848",
+		"name":"ALEEA DANUBIANA"
+	},
+	{
+		"id":"849",
+		"name":"DANUBIANA"
+	},
+	{
+		"id":"850",
+		"name":"ALEXANDRU IOAN CUZA"
+	},
+	{
+		"id":"851",
+		"name":"SCOALA DE APLICATIE"
+	},
+	{
+		"id":"852",
+		"name":"LICEU"
+	},
+	{
+		"id":"853",
+		"name":"EMINESCU"
+	},
+	{
+		"id":"854",
+		"name":"G-RAL  PRAPORGESCU"
+	},
+	{
+		"id":"855",
+		"name":"POPASUL RANDUNICA"
+	},
+	{
+		"id":"856",
+		"name":"POLICLINICA"
+	},
+	{
+		"id":"857",
+		"name":"BISERICII"
+	},
+	{
+		"id":"858",
+		"name":"SAT DUDU"
+	},
+	{
+		"id":"859",
+		"name":"CIMITIRUL CHIAJNA"
+	},
+	{
+		"id":"860",
+		"name":"BISERICA CHIAJNA"
+	},
+	{
+		"id":"861",
+		"name":"MAGAZIN ALIMENTAR"
+	},
+	{
+		"id":"862",
+		"name":"STATUIE"
+	},
+	{
+		"id":"863",
+		"name":"CHIAJNA"
+	},
+	{
+		"id":"864",
+		"name":"PREOT SEBE COSTIN"
+	},
+	{
+		"id":"865",
+		"name":"G-RAL  EREMIA GRIGORESCU"
+	},
+	{
+		"id":"866",
+		"name":"CANAL ARGES"
+	},
+	{
+		"id":"867",
+		"name":"CIMITIRUL GHENCEA 2"
+	},
+	{
+		"id":"868",
+		"name":"CENTURA DOMNESTI"
+	},
+	{
+		"id":"869",
+		"name":"STATIA ELECTRICA"
+	},
+	{
+		"id":"870",
+		"name":"PUTUL OLTENI"
+	},
+	{
+		"id":"871",
+		"name":"RADULUI"
+	},
+	{
+		"id":"872",
+		"name":"FRUMOASA"
+	},
+	{
+		"id":"873",
+		"name":"PODUL CIOROGARLA"
+	},
+	{
+		"id":"874",
+		"name":"FLOAREA SOARELUI"
+	},
+	{
+		"id":"875",
+		"name":"FABULEI"
+	},
+	{
+		"id":"876",
+		"name":"PANSELELOR"
+	},
+	{
+		"id":"877",
+		"name":"PRIMARIA DOMNESTI"
+	},
+	{
+		"id":"878",
+		"name":"CIUTACI"
+	},
+	{
+		"id":"879",
+		"name":"SCOALA GHEORGHE CORNELIU"
+	},
+	{
+		"id":"880",
+		"name":"MORII"
+	},
+	{
+		"id":"881",
+		"name":"CANTON DRUMURI"
+	},
+	{
+		"id":"882",
+		"name":"C.F.R. DOMNESTI"
+	},
+	{
+		"id":"883",
+		"name":"SCOALA DE 4 ANI"
+	},
+	{
+		"id":"884",
+		"name":"BABOI"
+	},
+	{
+		"id":"885",
+		"name":"SARUTULUI"
+	},
+	{
+		"id":"886",
+		"name":"BUBICA"
+	},
+	{
+		"id":"887",
+		"name":"CERNEI"
+	},
+	{
+		"id":"888",
+		"name":"ANSAMBLUL OLTENI"
+	},
+	{
+		"id":"889",
+		"name":"METRO VOLUNTARI"
+	},
+	{
+		"id":"890",
+		"name":"DORALY"
+	},
+	{
+		"id":"891",
+		"name":"SOSEAUA AFUMATI"
+	},
+	{
+		"id":"892",
+		"name":"BRAZI"
+	},
+	{
+		"id":"893",
+		"name":"PRIMARIA AFUMATI"
+	},
+	{
+		"id":"894",
+		"name":"AFUMATI"
+	},
+	{
+		"id":"895",
+		"name":"LICEUL TEORETIC RADU POPESCU"
+	},
+	{
+		"id":"896",
+		"name":"GHEORGHE COSTA-FORU"
+	},
+	{
+		"id":"897",
+		"name":"POSADA"
+	},
+	{
+		"id":"898",
+		"name":"DOMNITA BALASA"
+	},
+	{
+		"id":"899",
+		"name":"FORTULUI"
+	},
+	{
+		"id":"900",
+		"name":"C. F. R. CENTURA"
+	},
+	{
+		"id":"901",
+		"name":"S.C. GLINCARN"
+	},
+	{
+		"id":"902",
+		"name":"PIATA CLABUCET"
+	},
+	{
+		"id":"903",
+		"name":"CPT. RADU DRAGOS"
+	},
+	{
+		"id":"904",
+		"name":"PASAJ CHITILA"
+	},
+	{
+		"id":"905",
+		"name":"UTREC"
+	},
+	{
+		"id":"906",
+		"name":"ROMCERAM"
+	},
+	{
+		"id":"907",
+		"name":"GARA CHITILA"
+	},
+	{
+		"id":"908",
+		"name":"CAMIN CULTURAL"
+	},
+	{
+		"id":"909",
+		"name":"COMUNA CHITILA"
+	},
+	{
+		"id":"910",
+		"name":"LIBERTATII"
+	},
+	{
+		"id":"911",
+		"name":"PASAJ CFR CHITILA"
+	},
+	{
+		"id":"912",
+		"name":"I.A.I. MAGURELE"
+	},
+	{
+		"id":"913",
+		"name":"LIVEZII"
+	},
+	{
+		"id":"914",
+		"name":"CIMITIRUL MAGURELE"
+	},
+	{
+		"id":"915",
+		"name":"ROCON"
+	},
+	{
+		"id":"916",
+		"name":"PASAJ C.F.R MAGURELE"
+	},
+	{
+		"id":"917",
+		"name":"ATOMISTILOR 94"
+	},
+	{
+		"id":"918",
+		"name":"FACULTATEA DE FIZICA"
+	},
+	{
+		"id":"919",
+		"name":"A.C.R."
+	},
+	{
+		"id":"920",
+		"name":"POD CIOROGARLA"
+	},
+	{
+		"id":"921",
+		"name":"BUFET"
+	},
+	{
+		"id":"922",
+		"name":"DUMITRANA"
+	},
+	{
+		"id":"923",
+		"name":"S.C. ISPAS MARIN"
+	},
+	{
+		"id":"924",
+		"name":"SCOALA GENERALA"
+	},
+	{
+		"id":"925",
+		"name":"SAT DUMITRANA"
+	},
+	{
+		"id":"926",
+		"name":"SAT PRUNI"
+	},
+	{
+		"id":"927",
+		"name":"ATOMISTILOR 45"
+	},
+	{
+		"id":"928",
+		"name":"FOISORULUI"
+	},
+	{
+		"id":"929",
+		"name":"CRAITEI"
+	},
+	{
+		"id":"930",
+		"name":"SIPOTUL APELOR"
+	},
+	{
+		"id":"931",
+		"name":"ALUNISULUI"
+	},
+	{
+		"id":"932",
+		"name":"CIOCARLIEI"
+	},
+	{
+		"id":"933",
+		"name":"GRADINITA DOMNESTI"
+	},
+	{
+		"id":"934",
+		"name":"MARTE"
+	},
+	{
+		"id":"935",
+		"name":"NEPTUN"
+	},
+	{
+		"id":"936",
+		"name":"ORHIDEELOR"
+	},
+	{
+		"id":"937",
+		"name":"POIANA IZVOARELOR"
+	},
+	{
+		"id":"938",
+		"name":"BUCEGI"
+	},
+	{
+		"id":"939",
+		"name":"MARINARILOR"
+	},
+	{
+		"id":"940",
+		"name":"PADURARILOR"
+	},
+	{
+		"id":"941",
+		"name":"TRANSILVANIEI"
+	},
+	{
+		"id":"942",
+		"name":"TEGHES"
+	},
+	{
+		"id":"943",
+		"name":"JUPITER"
+	},
+	{
+		"id":"944",
+		"name":"CARTIERUL NOU"
+	},
+	{
+		"id":"945",
+		"name":"PECO"
+	},
+	{
+		"id":"946",
+		"name":"POD CENTURA"
+	},
+	{
+		"id":"947",
+		"name":"FABRICA DE MARGARINA"
+	},
+	{
+		"id":"948",
+		"name":"DUMBRAVENI"
+	},
+	{
+		"id":"949",
+		"name":"GRIVITEI"
+	},
+	{
+		"id":"950",
+		"name":"PRIMARIA BRAGADIRU"
+	},
+	{
+		"id":"951",
+		"name":"BRAGADIRU"
+	},
+	{
+		"id":"952",
+		"name":"HOTARULUI"
+	},
+	{
+		"id":"953",
+		"name":"SOSEAUA CLINCENI"
+	},
+	{
+		"id":"954",
+		"name":"MONUMENTUL EROILOR"
+	},
+	{
+		"id":"955",
+		"name":"PRIMARIA CLINCENI"
+	},
+	{
+		"id":"956",
+		"name":"CLINCENI"
+	},
+	{
+		"id":"957",
+		"name":"AMCO"
+	},
+	{
+		"id":"958",
+		"name":"PRIMARIA OTOPENI"
+	},
+	{
+		"id":"959",
+		"name":"ICSITMUA"
+	},
+	{
+		"id":"960",
+		"name":"AEROPORTUL HENRI COANDA"
+	},
+	{
+		"id":"961",
+		"name":"FILAN"
+	},
+	{
+		"id":"962",
+		"name":"GERIATRIE OTOPENI"
+	},
+	{
+		"id":"963",
+		"name":"C.F.R. BALOTESTI"
+	},
+	{
+		"id":"964",
+		"name":"UNIRII"
+	},
+	{
+		"id":"965",
+		"name":"MAGAZIN"
+	},
+	{
+		"id":"966",
+		"name":"OPRIRE"
+	},
+	{
+		"id":"967",
+		"name":"VARTEJU"
+	},
+	{
+		"id":"968",
+		"name":"CRIZANTEMELOR"
+	},
+	{
+		"id":"969",
+		"name":"STR. CIOROGARLEI"
+	},
+	{
+		"id":"970",
+		"name":"SCOALA OLTENI"
+	},
+	{
+		"id":"971",
+		"name":"CIOCARLIEI 79"
+	},
+	{
+		"id":"972",
+		"name":"CIMITIR CALTUNA"
+	},
+	{
+		"id":"973",
+		"name":"GRADINITA NR. 2"
+	},
+	{
+		"id":"974",
+		"name":"STRADA SABARULUI NR. 155"
+	},
+	{
+		"id":"975",
+		"name":"BISERICA SLOBOZIA"
+	},
+	{
+		"id":"976",
+		"name":"STRADA PRINCIPALA"
+	},
+	{
+		"id":"977",
+		"name":"STRADA CIOROGARLEI"
+	},
+	{
+		"id":"978",
+		"name":"PARC INDUSTRIAL"
+	},
+	{
+		"id":"979",
+		"name":"PARCUL BRANCOVENESC"
+	},
+	{
+		"id":"980",
+		"name":"PALATUL MOGOSOAIA"
+	},
+	{
+		"id":"981",
+		"name":"PRIMARIA MOGOSOAIA"
+	},
+	{
+		"id":"982",
+		"name":"AVICOLA"
+	},
+	{
+		"id":"983",
+		"name":"S.M.A MOGOSOAIA"
+	},
+	{
+		"id":"984",
+		"name":"STADION FRF"
+	},
+	{
+		"id":"985",
+		"name":"PREVENTORIU"
+	},
+	{
+		"id":"986",
+		"name":"S.M.A. MOGOSOAIA"
+	},
+	{
+		"id":"987",
+		"name":"FERMA AVICOLA"
+	},
+	{
+		"id":"988",
+		"name":"BUCIUMENI"
+	},
+	{
+		"id":"989",
+		"name":"DRUMUL RAZBOIENI"
+	},
+	{
+		"id":"990",
+		"name":"DRUMUL CIOCANESTI"
+	},
+	{
+		"id":"991",
+		"name":"LICEUL DUMITRU DUMITRESCU"
+	},
+	{
+		"id":"992",
+		"name":"ORAS BUFTEA"
+	},
+	{
+		"id":"993",
+		"name":"NIPON"
+	},
+	{
+		"id":"994",
+		"name":"ARTECA"
+	},
+	{
+		"id":"995",
+		"name":"PRIMARIA JILAVA"
+	},
+	{
+		"id":"996",
+		"name":"ARTISTILOR"
+	},
+	{
+		"id":"997",
+		"name":"1 DECEMBRIE"
+	},
+	{
+		"id":"998",
+		"name":"AEROPORT HENRI COANDA PLECARI"
+	},
+	{
+		"id":"999",
+		"name":"AEROPORT HENRI COANDA SOSIRI"
+	},
+	{
+		"id":"1000",
+		"name":"PIATA UNIRII 2"
+	},
+	{
+		"id":"1001",
+		"name":"DOCENTILOR"
+	}
+]

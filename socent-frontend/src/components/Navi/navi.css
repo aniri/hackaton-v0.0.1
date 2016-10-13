@@ -1,0 +1,127 @@
+
+/* navbar active */
+.navbar .navbar-nav li a:hover,
+.navbar .navbar-nav li.active a,
+.navbar .navbar-nav li.active a:hover,
+.navbar-nav li.dropdown.open a.dropdown-toggle { border-color: #00599e; }
+
+.navbar {
+  width: 100%;
+  background-color: #ffffff;
+  margin: 0;
+  border: none;
+  border-radius: 0;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  border-top: 1px solid rgba(0,0,0,.1);
+  transition: background-color .3s;
+  -webkit-font-smoothing: antialiased;
+  height: 80px;
+  min-height: 80px;
+}
+.navbar .navbar-header {
+  position: relative;
+  margin-top: 15px;
+}
+.navbar .navbar-header h1{
+  display: block;
+  
+}
+.navbar .container a.navbar-brand {
+  height: 60px;
+  padding: 0;
+  margin: 0;
+  transition: .3s;
+}
+
+/* Smaller device menu styles */
+.navbar .navbar-toggle {
+  outline: none;
+  border-color: transparent;
+  margin: 10px 0 0 0;
+  padding: 0;
+}
+.navbar .navbar-toggle:active,
+.navbar .navbar-toggle:visited,
+.navbar .navbar-toggle:focus,
+.navbar .navbar-toggle:hover { background-color: transparent; }
+
+.navbar .navbar-toggle span.icon-bar {
+  background-color: #ddd;
+  height: 3px;
+  margin: 4px 0;
+}
+.navbar .navbar-toggle:hover span.icon-bar {
+  background-color: #bbb;
+}
+.navbar .navbar-collapse {
+  border-color: #999;
+  max-height: 400px;
+}
+
+.navbar .navbar-collapse {
+  border: none;
+
+}
+
+.navbar .navbar-nav {
+  float: right;
+  margin: 0;
+}
+
+.navbar .navbar-nav li { height: 50px; }
+
+.navbar-collapse { background-color: #fff;}
+.navbar .navbar-nav li.dropdown ul.dropdown-menu li a:hover { background-color: #f4f4f4; }
+
+
+.navbar .navbar-nav li a {
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  height: 55px;
+  display: block;
+  font-size: 12px;
+  letter-spacing: .5px;
+  line-height: 80px;
+  margin: 0 0 0 40px;
+  padding: 0;
+  color: #666;
+  border-bottom: 1px solid #fff;
+  transition: .3s;
+}
+.navbar .navbar-nav li a:hover,
+.navbar .navbar-nav li a:active,
+.navbar .navbar-nav li.active a,
+.navbar .navbar-nav li.active a:focus,
+.navbar .navbar-nav li.active a:hover {
+  color: #333;
+  background-color: transparent;
+}
+
+.navbar .navbar-nav li i {
+  line-height: 50px;
+  margin: 0 10px;
+}
+
+@media (max-width: 767px) {
+  .navbar .navbar-nav {
+    margin: 20px 0;
+    width: 100%;
+  }
+  .navbar .navbar-nav li,
+  .navbar .navbar-nav li a {
+    clear: both;
+    margin: 0;
+    height: auto;
+  }
+  .navbar .navbar-nav li a { line-height: 40px; }
+  .navbar span.tagline {
+    clear: both;
+    margin: 0;
+  }
+  .navbar .container a.navbar-brand {
+    height: 50px;
+  }
+  .navbar .navbar-header i {
+    font-size: 26px;
+    width: 30px;
+  }
+}

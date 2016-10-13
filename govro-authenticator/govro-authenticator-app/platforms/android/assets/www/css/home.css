@@ -1,0 +1,87 @@
+﻿/*#region General Style */
+body {
+    background-color: #F2F2F2;
+}
+
+ion-content {
+    background-color: #F2F2F2;
+    font-family: 'Oswald Medium';
+}
+/*#endregion */
+
+.list {
+    background-color: #F2F2F2;
+}
+
+/*#region Menu Page */
+.menuItem {
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+ 
+.menuButtons button {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    margin-bottom: 10px !important;
+    color: #FFFFFF;
+}
+
+.button.red.activated,.button.red.activated,
+.button.red.activated:focus,
+.button.red.activated:hover{
+    color:#FFFFFF;
+    background-color:rgb(214,40,27);
+}
+
+.button.blue.activated,.button.blue.activated,
+.button.blue.activated:focus,.button.blue.activated:hover{
+    color:#FFFFFF;
+    background-color:rgb(36,126,193);
+}
+
+.button.yellow.activated,.button.yellow.activated,
+.button.yellow.activated:focus,.button.yellow.activated:hover {
+    color:#FFFFFF;
+    background-color:rgb(196,104,21);
+}
+
+.button.green.activated,.button.green.activated,
+.button.green.activated:focus,.button.green.activated:hover{
+    color:#FFFFFF;
+    background-color:rgb(36,170,97);
+}
+
+/*#endregion */
+
+/*.deliveryButtons span {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.deliveryButtons button {
+    vertical-align: middle;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    text-align: center !important;
+}*/
+
+
+/*.deliveryButtons .buttonLeft {
+    margin-left: 25px;*/
+}
+
+/*.deliveryButtons .buttonRight {
+    margin-right: 25px;
+}*/
+
+/*#region List Items */
+.badge.badge-assertive.packagesBadge {
+    padding: 10px 15px;
+    margin-right: 50px;
+    margin-top: 22px;
+}
+/*#endregion */
+

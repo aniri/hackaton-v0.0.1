@@ -1,0 +1,41 @@
+﻿body {
+    background-color: #F2F2F2;
+    font-family: 'Oswald Medium';
+}
+
+
+.loginContent {
+    /*margin-top: 90px;
+    font-size: 35px;
+    top:0;*/
+}
+
+.loginForm {
+    /*margin-top: 10px;*/
+}
+
+
+.loginContent .loginForm input {
+    /*font-size: 40px;*/
+    vertical-align: middle;
+    text-align: center;
+    /*height: 80px;*/
+}
+
+.loginContent .loginForm label {
+    /*font-size: 40px;*/
+    vertical-align: middle;
+    text-align: center;
+}
+
+.loginContent .loginForm button {
+    background-color: #E64B3C;
+    color: white;
+    /*font-size: 40px;
+    height: 80px;*/
+}
+
+.loginContent .loginForm button:hover
+{
+      background-color: #E64B3C;
+}

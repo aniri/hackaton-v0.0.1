@@ -1,0 +1,29 @@
+#footer {
+  text-align: left;
+  overflow: hidden;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  background-color: #f0f0f0;
+  border-top: 1px solid rgba(0,0,0,.05);
+}
+
+#footer .row { margin: 10px 0 0 0; }
+
+#footer .social-media a {
+  color: #666;
+  margin: 0 10px 0 0;
+  text-align: center;
+}
+#footer .social-media {
+  float: right;
+}
+
+
+@media (max-width: 767px) {
+  #footer .row { margin-left: 0; margin-right: 0; }
+  #footer p { text-align: center; }
+  #footer .social-media { float: none; }
+  .social-media a { padding: 0 10px; }
+}

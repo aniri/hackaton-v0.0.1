@@ -1,0 +1,788 @@
+[
+	{
+		"id": "1",
+		"long_name": "1: Sura Mare - Cal.Vitan",
+		"route_type": "Tram",
+		"short_name": "1"
+	},
+	{
+		"id": "10",
+		"long_name": "1: Sura Mare - Sos.Viilor",
+		"route_type": "Tram",
+		"short_name": "10"
+	},
+	{
+		"id": "4",
+		"long_name": "4",
+		"route_type": "Tram",
+		"short_name": "4"
+	},
+	{
+		"id": "5",
+		"long_name": "5",
+		"route_type": "Tram",
+		"short_name": "5"
+	},
+	{
+		"id": "7",
+		"long_name": "7",
+		"route_type": "Tram",
+		"short_name": "7"
+	},
+	{
+		"id": "8",
+		"long_name": "8",
+		"route_type": "Tram",
+		"short_name": "8"
+	},
+	{
+		"id": "11",
+		"long_name": "11",
+		"route_type": "Tram",
+		"short_name": "11"
+	},
+	{
+		"id": "14",
+		"long_name": "14",
+		"route_type": "Tram",
+		"short_name": "14"
+	},
+	{
+		"id": "16",
+		"long_name": "16",
+		"route_type": "Tram",
+		"short_name": "16"
+	},
+	{
+		"id": "21",
+		"long_name": "21",
+		"route_type": "Tram",
+		"short_name": "21"
+	},
+	{
+		"id": "23",
+		"long_name": "23",
+		"route_type": "Tram",
+		"short_name": "23"
+	},
+	{
+		"id": "24",
+		"long_name": "24",
+		"route_type": "Tram",
+		"short_name": "24"
+	},
+	{
+		"id": "25",
+		"long_name": "25",
+		"route_type": "Tram",
+		"short_name": "25"
+	},
+	{
+		"id": "27",
+		"long_name": "27",
+		"route_type": "Tram",
+		"short_name": "27"
+	},
+	{
+		"id": "32",
+		"long_name": "32",
+		"route_type": "Tram",
+		"short_name": "32"
+	},
+	{
+		"id": "35",
+		"long_name": "35",
+		"route_type": "Tram",
+		"short_name": "35"
+	},
+	{
+		"id": "36",
+		"long_name": "36",
+		"route_type": "Tram",
+		"short_name": "36"
+	},
+	{
+		"id": "40",
+		"long_name": "40",
+		"route_type": "Tram",
+		"short_name": "40"
+	},
+	{
+		"id": "41",
+		"long_name": "41",
+		"route_type": "Tram",
+		"short_name": "41"
+	},
+	{
+		"id": "42",
+		"long_name": "42",
+		"route_type": "Tram",
+		"short_name": "42"
+	},
+	{
+		"id": "44",
+		"long_name": "44",
+		"route_type": "Tram",
+		"short_name": "44"
+	},
+	{
+		"id": "45",
+		"long_name": "45",
+		"route_type": "Tram",
+		"short_name": "45"
+	},
+	{
+		"id": "46",
+		"long_name": "46",
+		"route_type": "Tram",
+		"short_name": "46"
+	},
+	{
+		"id": "47",
+		"long_name": "47",
+		"route_type": "Tram",
+		"short_name": "47"
+	},
+	{
+		"id": "56",
+		"long_name": "56",
+		"route_type": "Tram",
+		"short_name": "56"
+	},
+	{
+		"id": "61",
+		"long_name": "61",
+		"route_type": "Electric bus",
+		"short_name": "61"
+	},
+	{
+		"id": "62",
+		"long_name": "62",
+		"route_type": "Electric bus",
+		"short_name": "62"
+	},
+	{
+		"id": "65",
+		"long_name": "65",
+		"route_type": "Electric bus",
+		"short_name": "65"
+	},
+	{
+		"id": "66",
+		"long_name": "66",
+		"route_type": "Electric bus",
+		"short_name": "66"
+	},
+	{
+		"id": "69",
+		"long_name": "69",
+		"route_type": "Electric bus",
+		"short_name": "69"
+	},
+	{
+		"id": "70",
+		"long_name": "70",
+		"route_type": "Electric bus",
+		"short_name": "70"
+	},
+	{
+		"id": "73",
+		"long_name": "73",
+		"route_type": "Electric bus",
+		"short_name": "73"
+	},
+	{
+		"id": "77",
+		"long_name": "77",
+		"route_type": "Electric bus",
+		"short_name": "77"
+	},
+	{
+		"id": "79",
+		"long_name": "79",
+		"route_type": "Electric bus",
+		"short_name": "79"
+	},
+	{
+		"id": "85",
+		"long_name": "85",
+		"route_type": "Electric bus",
+		"short_name": "85"
+	},
+	{
+		"id": "86",
+		"long_name": "86",
+		"route_type": "Electric bus",
+		"short_name": "86"
+	},
+	{
+		"id": "90",
+		"long_name": "90",
+		"route_type": "Electric bus",
+		"short_name": "90"
+	},
+	{
+		"id": "91",
+		"long_name": "91",
+		"route_type": "Electric bus",
+		"short_name": "91"
+	},
+	{
+		"id": "93",
+		"long_name": "93",
+		"route_type": "Electric bus",
+		"short_name": "93"
+	},
+	{
+		"id": "96",
+		"long_name": "96",
+		"route_type": "Electric bus",
+		"short_name": "96"
+	},
+	{
+		"id": "101",
+		"long_name": "101",
+		"route_type": "Bus",
+		"short_name": "101"
+	},
+	{
+		"id": "102",
+		"long_name": "102",
+		"route_type": "Bus",
+		"short_name": "102"
+	},
+	{
+		"id": "103",
+		"long_name": "103",
+		"route_type": "Bus",
+		"short_name": "103"
+	},
+	{
+		"id": "104",
+		"long_name": "104",
+		"route_type": "Bus",
+		"short_name": "104"
+	},
+	{
+		"id": "105",
+		"long_name": "105",
+		"route_type": "Bus",
+		"short_name": "105"
+	},
+	{
+		"id": "106",
+		"long_name": "106",
+		"route_type": "Bus",
+		"short_name": "106"
+	},
+	{
+		"id": "112",
+		"long_name": "112",
+		"route_type": "Bus",
+		"short_name": "112"
+	},
+	{
+		"id": "116",
+		"long_name": "116",
+		"route_type": "Bus",
+		"short_name": "116"
+	},
+	{
+		"id": "117",
+		"long_name": "117",
+		"route_type": "Bus",
+		"short_name": "117"
+	},
+	{
+		"id": "122",
+		"long_name": "122",
+		"route_type": "Bus",
+		"short_name": "122"
+	},
+	{
+		"id": "123",
+		"long_name": "123",
+		"route_type": "Bus",
+		"short_name": "123"
+	},
+	{
+		"id": "124",
+		"long_name": "124",
+		"route_type": "Bus",
+		"short_name": "124"
+	},
+	{
+		"id": "125",
+		"long_name": "125",
+		"route_type": "Bus",
+		"short_name": "125"
+	},
+	{
+		"id": "126",
+		"long_name": "126",
+		"route_type": "Bus",
+		"short_name": "126"
+	},
+	{
+		"id": "131",
+		"long_name": "131",
+		"route_type": "Bus",
+		"short_name": "131"
+	},
+	{
+		"id": "133",
+		"long_name": "133",
+		"route_type": "Bus",
+		"short_name": "133"
+	},
+	{
+		"id": "135",
+		"long_name": "135",
+		"route_type": "Bus",
+		"short_name": "135"
+	},
+	{
+		"id": "136",
+		"long_name": "136",
+		"route_type": "Bus",
+		"short_name": "136"
+	},
+	{
+		"id": "137",
+		"long_name": "137",
+		"route_type": "Bus",
+		"short_name": "137"
+	},
+	{
+		"id": "138",
+		"long_name": "138",
+		"route_type": "Bus",
+		"short_name": "138"
+	},
+	{
+		"id": "139",
+		"long_name": "139",
+		"route_type": "Bus",
+		"short_name": "139"
+	},
+	{
+		"id": "141",
+		"long_name": "141",
+		"route_type": "Bus",
+		"short_name": "141"
+	},
+	{
+		"id": "143",
+		"long_name": "143",
+		"route_type": "Bus",
+		"short_name": "143"
+	},
+	{
+		"id": "149",
+		"long_name": "149",
+		"route_type": "Bus",
+		"short_name": "149"
+	},
+	{
+		"id": "162",
+		"long_name": "162",
+		"route_type": "Bus",
+		"short_name": "162"
+	},
+	{
+		"id": "163",
+		"long_name": "163",
+		"route_type": "Bus",
+		"short_name": "163"
+	},
+	{
+		"id": "168",
+		"long_name": "168",
+		"route_type": "Bus",
+		"short_name": "168"
+	},
+	{
+		"id": "173",
+		"long_name": "173",
+		"route_type": "Bus",
+		"short_name": "173"
+	},
+	{
+		"id": "178",
+		"long_name": "178",
+		"route_type": "Bus",
+		"short_name": "178"
+	},
+	{
+		"id": "182",
+		"long_name": "182",
+		"route_type": "Bus",
+		"short_name": "182"
+	},
+	{
+		"id": "185",
+		"long_name": "185",
+		"route_type": "Bus",
+		"short_name": "185"
+	},
+	{
+		"id": "202",
+		"long_name": "202",
+		"route_type": "Bus",
+		"short_name": "202"
+	},
+	{
+		"id": "205",
+		"long_name": "205",
+		"route_type": "Bus",
+		"short_name": "205"
+	},
+	{
+		"id": "216",
+		"long_name": "216",
+		"route_type": "Bus",
+		"short_name": "216"
+	},
+	{
+		"id": "220",
+		"long_name": "220",
+		"route_type": "Bus",
+		"short_name": "220"
+	},
+	{
+		"id": "221",
+		"long_name": "221",
+		"route_type": "Bus",
+		"short_name": "221"
+	},
+	{
+		"id": "222",
+		"long_name": "222",
+		"route_type": "Bus",
+		"short_name": "222"
+	},
+	{
+		"id": "223",
+		"long_name": "223",
+		"route_type": "Bus",
+		"short_name": "223"
+	},
+	{
+		"id": "226",
+		"long_name": "226",
+		"route_type": "Bus",
+		"short_name": "226"
+	},
+	{
+		"id": "227",
+		"long_name": "227",
+		"route_type": "Bus",
+		"short_name": "227"
+	},
+	{
+		"id": "232",
+		"long_name": "232",
+		"route_type": "Bus",
+		"short_name": "232"
+	},
+	{
+		"id": "236",
+		"long_name": "236",
+		"route_type": "Bus",
+		"short_name": "236"
+	},
+	{
+		"id": "243",
+		"long_name": "243",
+		"route_type": "Bus",
+		"short_name": "243"
+	},
+	{
+		"id": "246",
+		"long_name": "246",
+		"route_type": "Bus",
+		"short_name": "246"
+	},
+	{
+		"id": "253",
+		"long_name": "253",
+		"route_type": "Bus",
+		"short_name": "253"
+	},
+	{
+		"id": "261",
+		"long_name": "261",
+		"route_type": "Bus",
+		"short_name": "261"
+	},
+	{
+		"id": "268",
+		"long_name": "268",
+		"route_type": "Bus",
+		"short_name": "268"
+	},
+	{
+		"id": "282",
+		"long_name": "282",
+		"route_type": "Bus",
+		"short_name": "282"
+	},
+	{
+		"id": "300",
+		"long_name": "300",
+		"route_type": "Bus",
+		"short_name": "300"
+	},
+	{
+		"id": "301",
+		"long_name": "301",
+		"route_type": "Bus",
+		"short_name": "301"
+	},
+	{
+		"id": "302",
+		"long_name": "302",
+		"route_type": "Bus",
+		"short_name": "302"
+	},
+	{
+		"id": "303",
+		"long_name": "303",
+		"route_type": "Bus",
+		"short_name": "303"
+	},
+	{
+		"id": "304",
+		"long_name": "304",
+		"route_type": "Bus",
+		"short_name": "304"
+	},
+	{
+		"id": "311",
+		"long_name": "311",
+		"route_type": "Bus",
+		"short_name": "311"
+	},
+	{
+		"id": "312",
+		"long_name": "312",
+		"route_type": "Bus",
+		"short_name": "312"
+	},
+	{
+		"id": "313",
+		"long_name": "313",
+		"route_type": "Bus",
+		"short_name": "313"
+	},
+	{
+		"id": "323",
+		"long_name": "323",
+		"route_type": "Bus",
+		"short_name": "323"
+	},
+	{
+		"id": "330",
+		"long_name": "330",
+		"route_type": "Bus",
+		"short_name": "330"
+	},
+	{
+		"id": "331",
+		"long_name": "331",
+		"route_type": "Bus",
+		"short_name": "331"
+	},
+	{
+		"id": "335",
+		"long_name": "335",
+		"route_type": "Bus",
+		"short_name": "335"
+	},
+	{
+		"id": "336",
+		"long_name": "336",
+		"route_type": "Bus",
+		"short_name": "336"
+	},
+	{
+		"id": "368",
+		"long_name": "368",
+		"route_type": "Bus",
+		"short_name": "368"
+	},
+	{
+		"id": "381",
+		"long_name": "381",
+		"route_type": "Bus",
+		"short_name": "381"
+	},
+	{
+		"id": "385",
+		"long_name": "385",
+		"route_type": "Bus",
+		"short_name": "385"
+	},
+	{
+		"id": "601",
+		"long_name": "601",
+		"route_type": "Bus",
+		"short_name": "601"
+	},
+	{
+		"id": "611",
+		"long_name": "611",
+		"route_type": "Bus",
+		"short_name": "611"
+	},
+	{
+		"id": "634",
+		"long_name": "634",
+		"route_type": "Bus",
+		"short_name": "634"
+	},
+	{
+		"id": "655",
+		"long_name": "655",
+		"route_type": "Bus",
+		"short_name": "655"
+	},
+	{
+		"id": "668",
+		"long_name": "668",
+		"route_type": "Bus",
+		"short_name": "668"
+	},
+	{
+		"id": "682",
+		"long_name": "682",
+		"route_type": "Bus",
+		"short_name": "682"
+	},
+	{
+		"id": "696",
+		"long_name": "696",
+		"route_type": "Bus",
+		"short_name": "696"
+	},
+	{
+		"id": "697",
+		"long_name": "697",
+		"route_type": "Bus",
+		"short_name": "697"
+	},
+	{
+		"id": "402",
+		"long_name": "402",
+		"route_type": "Inter-city bus",
+		"short_name": "402"
+	},
+	{
+		"id": "406",
+		"long_name": "406",
+		"route_type": "Inter-city bus",
+		"short_name": "406"
+	},
+	{
+		"id": "408",
+		"long_name": "408",
+		"route_type": "Inter-city bus",
+		"short_name": "408"
+	},
+	{
+		"id": "409",
+		"long_name": "409",
+		"route_type": "Inter-city bus",
+		"short_name": "409"
+	},
+	{
+		"id": "414",
+		"long_name": "414",
+		"route_type": "Inter-city bus",
+		"short_name": "414"
+	},
+	{
+		"id": "422",
+		"long_name": "422",
+		"route_type": "Inter-city bus",
+		"short_name": "422"
+	},
+	{
+		"id": "427",
+		"long_name": "427",
+		"route_type": "Inter-city bus",
+		"short_name": "427"
+	},
+	{
+		"id": "428",
+		"long_name": "428",
+		"route_type": "Inter-city bus",
+		"short_name": "428"
+	},
+	{
+		"id": "438",
+		"long_name": "438",
+		"route_type": "Inter-city bus",
+		"short_name": "438"
+	},
+	{
+		"id": "439",
+		"long_name": "439",
+		"route_type": "Inter-city bus",
+		"short_name": "439"
+	},
+	{
+		"id": "449",
+		"long_name": "449",
+		"route_type": "Inter-city bus",
+		"short_name": "449"
+	},
+	{
+		"id": "453",
+		"long_name": "453",
+		"route_type": "Inter-city bus",
+		"short_name": "453"
+	},
+	{
+		"id": "455",
+		"long_name": "455",
+		"route_type": "Inter-city bus",
+		"short_name": "455"
+	},
+	{
+		"id": "456",
+		"long_name": "456",
+		"route_type": "Inter-city bus",
+		"short_name": "456"
+	},
+	{
+		"id": "460",
+		"long_name": "460",
+		"route_type": "Inter-city bus",
+		"short_name": "460"
+	},
+	{
+		"id": "462",
+		"long_name": "460B",
+		"route_type": "Inter-city bus",
+		"short_name": "462"
+	},
+	{
+		"id": "471",
+		"long_name": "471",
+		"route_type": "Inter-city bus",
+		"short_name": "471"
+	},
+	{
+		"id": "780",
+		"long_name": "780",
+		"route_type": "Express line bus",
+		"short_name": "780"
+	},
+	{
+		"id": "783",
+		"long_name": "783",
+		"route_type": "Express line bus",
+		"short_name": "783"
+	}
+]

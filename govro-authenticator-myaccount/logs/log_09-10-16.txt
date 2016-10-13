@@ -1,0 +1,110 @@
+17:50:51: Session for user  is not existing.
+17:51:19: Session for user  is not existing.
+17:51:48: Session for user  is not existing.
+17:51:48: Session for user  is not existing.
+17:52:29: Session for user  is not existing.
+17:52:29: adding user to database
+17:52:29: User sorin.vasilescu@gmail.com not exist
+17:52:29: Rzlgd3mTSQ
+17:52:29: 8013a09e78efd33deb1e441f26790a92
+17:52:29: File is not an image.
+17:52:29: Sorry, only JPG, JPEG, PNG & GIF files are allowed.
+17:52:29: Sorry, your file was not uploaded.
+17:52:29: User System added a new user: sorin.vasilescu@gmail.com
+17:52:41: Session for user andreipop2005@gmail.com exists.
+17:52:41: Checking menu options for 2 and 0
+17:52:41: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 2 and rights like '%0%'
+17:52:41: Checking menu options for 1 and 0
+17:52:41: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 1 and rights like '%0%'
+17:52:42: Session for user  is not existing.
+17:52:43: Session for user andreipop2005@gmail.com exists.
+17:52:43: Checking menu options for 2 and 0
+17:52:43: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 2 and rights like '%0%'
+17:52:43: Checking menu options for 1 and 0
+17:52:43: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 1 and rights like '%0%'
+17:52:59: Session for user  is not existing.
+17:54:07: Session for user  is not existing.
+17:54:07: Trying to log in for user sorin.vasilescu@gmail.com
+17:54:07: 
+17:54:07: User sorin.vasilescu@gmail.com was found!
+17:54:07: User sorin.vasilescu@gmail.com is active!
+17:54:07: User sorin.vasilescu@gmail.com has full rights!
+17:54:07: User sorin.vasilescu@gmail.com logged in successfully.
+17:54:07: Creating session for sorin.vasilescu@gmail.com.
+17:54:07: Session sorin.vasilescu@gmail.com created successfully!
+17:54:12: Session for user sorin.vasilescu@gmail.com exists.
+17:54:12: Checking menu options for 2 and 0
+17:54:12: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 2 and rights like '%0%'
+17:54:12: Checking menu options for 1 and 0
+17:54:12: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 1 and rights like '%0%'
+17:54:38: Session for user  is not existing.
+17:54:38: Session for user  is not existing.
+17:55:15: Session for user  is not existing.
+17:55:34: Session for user  is not existing.
+17:55:34: Trying to log in for user bogdan@lefter.ro
+17:55:34: 
+17:55:34: User bogdan@lefter.ro was found!
+17:55:34: User bogdan@lefter.ro is active!
+17:55:34: User bogdan@lefter.ro has full rights!
+17:55:34: User bogdan@lefter.ro logged in successfully.
+17:55:34: Creating session for bogdan@lefter.ro.
+17:55:34: Session bogdan@lefter.ro created successfully!
+17:55:39: Session for user bogdan@lefter.ro exists.
+17:55:39: Checking menu options for 2 and 0
+17:55:39: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 2 and rights like '%0%'
+17:55:39: Checking menu options for 1 and 0
+17:55:39: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 1 and rights like '%0%'
+17:55:42: Session for user  is not existing.
+17:55:42: adding user to database
+17:55:42: User gmail@gmail.com not exist
+17:55:42: INGvvOpvIk
+17:55:42: 1f8944f268dc8a49984bde6fa61ad2bc
+17:55:42: File is not an image.
+17:55:42: Sorry, only JPG, JPEG, PNG & GIF files are allowed.
+17:55:42: Sorry, your file was not uploaded.
+17:55:42: User System added a new user: gmail@gmail.com
+17:55:54: Session for user  is not existing.
+17:56:01: Session for user sorin.vasilescu@gmail.com exists.
+17:56:01: {"f":"ApiLogin","ipn":"http:\/\/193.230.8.27:41000"}
+17:56:02: Session for user  is not existing.
+17:56:46: Session for user  is not existing.
+17:56:46: Session for user  is not existing.
+17:56:53: Session for user  is not existing.
+17:56:53: Session for user  is not existing.
+17:57:26: Session for user  is not existing.
+17:57:26: adding user to database
+17:57:26: User asdasdasd@asd.com not exist
+17:57:26: cHl57XabjG
+17:57:26: a37ce71ff08f3c0518b2be23c201666f
+17:57:26: File is not an image.
+17:57:26: Sorry, only JPG, JPEG, PNG & GIF files are allowed.
+17:57:26: Sorry, your file was not uploaded.
+17:57:26: User System added a new user: asdasdasd@asd.com
+17:57:36: Session for user  is not existing.
+17:57:47: Session for user  is not existing.
+17:57:47: Trying to log in for user asdasdasd@asd.com
+17:57:48: 
+17:57:48: User asdasdasd@asd.com was found!
+17:57:48: User asdasdasd@asd.com is active!
+17:57:48: User asdasdasd@asd.com has full rights!
+17:57:48: User asdasdasd@asd.com logged in successfully.
+17:57:48: Creating session for asdasdasd@asd.com.
+17:57:48: Session asdasdasd@asd.com created successfully!
+17:57:54: Session for user asdasdasd@asd.com exists.
+17:57:54: Checking menu options for 2 and 0
+17:57:54: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 2 and rights like '%0%'
+17:57:54: Checking menu options for 1 and 0
+17:57:54: SELECT id, alias, name,  href, rights, (SELECT name from menus where menus.id = menuOptions.menuId) as 'menu', (SELECT alias from icons where icons.id = menuOptions.iconId) as 'icon' FROM menuOptions where menuId = 1 and rights like '%0%'
+17:58:18: Session for user asdasdasd@asd.com exists.
+17:58:18: {"f":"ApiLogin","ipn":"http:\/\/193.230.8.27:41000"}
+17:58:44: Session for user asdasdasd@asd.com exists.
+17:58:44: {"f":"ApiLogin","ipn":"http:\/\/193.230.8.27:41000"}
+17:58:49: Session for user  is not existing.
+17:59:35: Session for user asdasdasd@asd.com exists.
+17:59:35: {"f":"ApiLogin","ipn":"http:\/\/193.230.8.27:41000"}
+17:59:56: Session for user asdasdasd@asd.com exists.
+17:59:56: {"f":"ApiLogin","ipn":"http:\/\/193.230.8.27:41000"}
+18:02:48: Session for user asdasdasd@asd.com exists.
+18:02:48: {"f":"ApiLogin","ipn":""}
+18:02:48: Connection could not be established.Array
+18:08:05: Session for user  is not existing.

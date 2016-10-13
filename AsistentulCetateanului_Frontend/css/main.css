@@ -1,0 +1,94 @@
+@import 'https://fonts.googleapis.com/css?family=Lato';
+
+body {
+  background-color: #2D3A4B;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  color: #E9E9E9;
+}
+
+.text {
+  font-size: 50px;
+  margin-top: 10vh;
+}
+
+.bck {
+  background: #283443;
+  color: #E9E9E9;
+  width: 400px;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border: 1px solid #414D5C;
+  outline: none;
+  font-size: 20px;
+}
+
+#header {
+  height: 10vh;
+  width: 100vw;
+  background: #FFF;
+}
+
+.col-xs-2, .col-xs-10 {
+  height: 90vh;
+}
+
+.col-xs-2 {
+  font-size: 1.5em;
+}
+
+.col-xs-10 {
+  text-align: left;
+  padding: 30px;
+  font-size: 1.5em;
+}
+
+#search {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  color: #2D3A4B;
+}
+
+li {
+  list-style-type: none;
+  text-align: left;
+  cursor: pointer;
+  color: #E9E9E9;
+  padding-left: 10px;
+}
+
+li:hover {
+  background: #2D3A4B;
+}
+
+ul {
+  margin: 0 -15px 0 -15px;
+  padding: 0;
+}
+
+#wlcm {
+  text-align: right;
+  font-size: 3em;
+  margin-right: 5vw;
+  color: #2D3A4B;
+}
+
+.modaltext {
+  color: #2D3A4B;
+}
+
+.sendbutton {
+  width: 100px;
+  height:40px;
+  background: #82B440;
+  color: #E9E9E9;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border: 1px solid #414D5C;
+  outline: none;
+  font-size: 20px;
+}

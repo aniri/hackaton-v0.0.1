@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Romania Public Transport API</h1>
+
+<h3>Examples</h3>
+<ul>
+    <li>Cities - <a href="http://193.230.8.27:28031/v0.1/cities">GET /v0.1/cities</a></li>
+    <li>
+        Brasov
+            <ul>
+                <li>Capabilities <a href="http://193.230.8.27:28031/v0.1/brasov/capabilities">GET /v0.1/capabilities</a></li>
+                <li>Agency Info <a href="http://193.230.8.27:28031/v0.1/brasov/agency">GET /v0.1/{string:city}/agency</a></li>
+                <li>Stops - <a href="http://193.230.8.27:28031/v0.1/brasov/stops">GET /v0.1/{string:city_id}/stops</a></li>
+                <li>Routes - <a href="http://193.230.8.27:28031/v0.1/brasov/routes">GET /v0.1/{string:city_id}/routes</a></li>
+                <li>Route from stop A to stop B - <a href="http://193.230.8.27:28031/v0.1/brasov/route?start_stop_id=TRIAJ&end_stop_id=LIVADA">GET /v0.1/route?start_stop_id={string:start_stop_id}&end_stop_id={string:end_stop_id}</a></li>
+        </ul>
+    </li>
+    
+    <li>
+        Bucuresti
+            <ul>
+                <li>Stops - <a href="http://193.230.8.27:28031/v0.1/bucuresti/stops">GET /v0.1/{string:city_id}/stops</a></li>
+                <li>Routes - <a href="http://193.230.8.27:28031/v0.1/bucuresti/routes">GET /v0.1/{string:city_id}/routes</a></li>
+                <li>Route from stop A to stop B - <a href="http://193.230.8.27:28031/v0.1/bucuresti/route?start_stop_id=0&end_stop_id=44">GET /v0.1/route?start_stop_id={string:start_stop_id}&end_stop_id={string:end_stop_id}</a></li>
+        </ul>
+    </li>
+    
+</ul>
+
+Protocols:
+<ul>
+    <li><a href="https://developers.google.com/transit/">GTFS and GTFS Realtime</a></li>
+    <li><a href="http://json.org/">JSON</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/XML">XML</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Comma-separated_values">CSV</a></li>
+    <li><a href="http://www.grpc.io/">Protocol buffers/gRPC</a></li>
+</ul>
+
+</body>
+</html>
+

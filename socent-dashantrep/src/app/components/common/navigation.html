@@ -1,0 +1,29 @@
+<nav class="navbar-default navbar-static-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul side-navigation class="nav metismenu" id="side-menu">
+            <li class="nav-header" style="padding-bottom: 0;">
+                <img src="assets/images/gov.png" alt="" class="img-gov img-responsive m-b center-block">
+                <h2 class="text-white">Registrul Întreprinderilor Sociale</h2>
+            </li>
+            <li class="nav-header">
+                <div class="profile-element" uib-dropdown>
+                    <a uib-dropdown-toggle="" href>
+                        <span class="block">
+                                <i class="fa fa-user"></i> <strong class="font-bold">{{dashboard.userName}}</strong>
+                         </span>
+                    </a>
+                    <ul uib-dropdown-menu class="animated flipInX m-t-xs">
+                        <li><a href="">Profil</a></li>
+                        <li><a href="">Deconectare</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li ui-sref-active="active">
+                <a ui-sref="index.dashboard"><i class="fa fa-dashboard"></i> <span class="nav-label">Panou de control</span> </a>
+            </li>
+            <li ui-sref-active="active">
+                <a ui-sref="index.register"><i class="fa fa-file-text"></i> <span class="nav-label">Înregistrează</span></a>
+            </li>
+        </ul>
+    </div>
+</nav>

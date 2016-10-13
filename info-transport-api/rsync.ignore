@@ -1,0 +1,15 @@
+.git
+.gitignore
+venv
+deploy.sh
+Docs.md
+README.md
+postgres_import.sql
+queries.sql
+rsync.ignore
+setup.sh
+setup.sql
+testing.sh
+data/out_postgres.sql
+.idea
+sql

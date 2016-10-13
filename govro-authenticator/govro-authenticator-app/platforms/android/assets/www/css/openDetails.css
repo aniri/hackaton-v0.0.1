@@ -1,0 +1,68 @@
+﻿body {
+}
+
+.parcelsBadge {
+    top: 22px !important;
+    right: 5px !important;
+    padding: 0 5px 0 5px !important;
+    margin-right: 0;
+}
+
+
+.countryCodeBadge {
+    top: 3px !important;
+    padding: 0 5px 0 5px;
+    right: 5px !important;
+    margin-right: 10px !important;
+}
+
+.label {
+    color: #E64B3C;
+}
+
+.itemDetails {
+    display: block;
+}
+
+.deliveredButton {
+    width: 92%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.reasonCodes {
+    text-align: left;
+    font-size: 15px;
+    padding: 0 0 0 0;
+}
+
+.reasonCodeList {
+}
+
+.reasonCodeHeader {
+    color: #FFFFFF;
+    text-align: center;
+    vertical-align: central;
+    padding-top: 25px;
+    font-size: 22px;
+}
+
+
+
+.epodWidget p {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px !important;
+    color: #FFFFFF;
+}
+
+.photoButton {
+    background-color: #E64B3C;
+    color: #FFFFFF;
+}
+
+.epodImage img {
+    min-width: 50% !important;
+    max-width: 100% !important;
+}

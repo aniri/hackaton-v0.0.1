@@ -1,0 +1,83 @@
+﻿body {
+    background-color: #F2F2F2;
+}
+
+ion-content {
+    background-color: #F2F2F2;
+}
+
+
+.widgetHeader.widgetHeaderList {
+    padding-top: 25px !important;
+}
+
+.item.deliveryList {
+    border-radius: 0 0 10px 10px !important;
+}
+
+.deliveryButtons span {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.deliveryButtons button {
+    vertical-align: middle;
+    margin-top: 10px;
+    text-align: center !important;
+}
+
+.right .packagesBadge {
+    margin-top: 70px !important;
+    padding-top: 15px;
+    margin-right: 0 !important;
+}
+
+.right .kgBadge {
+    padding-top: 15px;
+    margin-right: 0 !important;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.descriptionList {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.fetchDelivery {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.iconRefresh {
+    vertical-align: middle;
+    padding-top: 10px;
+    font-size: 40px;
+}
+
+.itemsList {
+    height: 50%;
+    min-height: 30%;
+    max-height: 60%;
+    line-height: 0;
+}
+
+.redIcon {
+    padding-top: 10px !important;
+}
+
+.address {
+    padding-top: 23px !important;
+}
+
+.infoDiv {
+    padding-top: 2px !important;
+}
+
+.buttonLeft {
+    margin-bottom: 2px;
+}
+
+.deliveredWidget{
+    margin-top:10px;
+}

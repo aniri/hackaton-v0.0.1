@@ -1,0 +1,23 @@
+{% extends "EFormsBundle:Admin:base.html.twig" %}
+
+{% block container %}
+<div class="container">
+    <h1>Completati formularul</h1>
+    <form id="render-form" method="post">
+        <div class="render-wrap" data-form-builder='{{ widgets|json_encode }}'></div>
+        <input id="submitBtn" type="button" class="btn btn-success" value="Trimite" />
+    </form>
+</div>
+{% endblock %}
+
+{% block javascripts %}
+    <script src="{{ asset('bundles/eforms/js/form-render.min.js') }}"></script>
+    <script src="{{ asset('bundles/eforms/js/validation.js') }}"></script>
+    <script src="{{ asset('bundles/eforms/js/utils.js') }}"></script>
+    <script src="{{ asset('bundles/eforms/js/demo_renderer.js') }}"></script>
+{% endblock %}
+
+{% block stylesheets %}
+    <link rel="stylesheet" type="text/css" href="{{ asset('bundles/eforms/css/form-builder.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('bundles/eforms/css/form-render.min.css') }}" />
+{% endblock %}

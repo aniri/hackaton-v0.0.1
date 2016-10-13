@@ -1,0 +1,9 @@
+[submodule "crawlers/RAT-Bucuresti-BusBackend-Cpp"]
+	path = crawlers/RAT-Bucuresti-BusBackend-Cpp
+	url = git@github.com:mnemonicflow/RAT-Bucuresti-BusBackend-Cpp.git
+[submodule "crawlers/ratbv-to-gtfs-converter"]
+	path = crawlers/ratbv-to-gtfs-converter
+	url = git@github.com:mnemonicflow/ratbv-to-gtfs-converter.git
+[submodule "romanian-railways-gtfs-converter"]
+	path = romanian-railways-gtfs-converter
+	url = git@github.com:mnemonicflow/romanian-railways-gtfs-converter.git

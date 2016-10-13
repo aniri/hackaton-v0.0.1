@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      <div style="text-align: center;">
+        <img src="img/transp_logoasistentulcetateanului.png" height="32px" />
+      </div>
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card *ngFor="let feedItem of feedItems">
+    <ion-card-header>
+      <b>#{{ feedItem.type }}</b>
+    </ion-card-header>
+    <ion-card-content>
+      {{ feedItem.message }}
+
+      <ul>
+        <li *ngFor="let feedItemOpt of feedItem.objKeyValues">
+          {{ feedItemOpt.key }}: {{ feedItemOpt.val }}
+        </li>
+      </ul>
+    </ion-card-content>
+  </ion-card>
+</ion-content>

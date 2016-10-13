@@ -1,0 +1,61 @@
+﻿body {
+}
+
+div.list div.item .messageHeader {
+    font-weight: bold !important;
+    font-size: 16px !important;
+}
+
+div.item .messageBody {
+    font-weight: normal !important;
+    font-size: 15px !important;
+}
+
+.messageList {
+    width: 95% !important;
+    margin: auto !important;
+    margin-top: 2px !important;
+}
+
+/*details*/
+.detailsMessageHeader {
+    /*height: 58px;*/
+}
+
+ div.badge.badge-energized.dataMessages {
+        /*top: 3px*/
+        top: 21px;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        right: 8px;
+    }
+
+    .detailsMessageHeader h2, .detailsMessageHeader p {
+        color: white;
+    }
+
+  div.badge.badge-balanced.statusBadge {
+        /*top: 27px;*/
+        top: 2px;
+        padding-bottom: 1px;
+        padding-top: 0;
+        right: 15px;
+    }
+
+
+.statusBadge a {
+    color: white;
+}
+
+.detailsMessageBody {
+    /*margin-top: 22px;*/
+}
+
+.statusButtons {
+    width: 95%;
+    margin: auto;
+}
+
+.itemBody p {
+    margin-top: 0;
+}

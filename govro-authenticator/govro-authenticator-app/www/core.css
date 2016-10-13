@@ -1,0 +1,180 @@
+﻿
+/*#region General style */
+body {
+    background-color: #F2F2F2;
+    font-family: 'Oswald Medium';
+}
+
+ion-content {
+    background-color: #F2F2F2;
+}
+/*#endregion */
+
+/*#region Page Header */
+ion-header-bar.mainHeader {
+    padding: 0;
+}
+
+
+.mainHeader .headerImg {
+    height: 80%;
+    padding-top: 8px;
+}
+
+.mainHeader i {
+    vertical-align: middle;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 40px;
+}
+/*#endregion*/
+
+/*#region Widget Headers Colors */
+.red {
+    background-color: #E64B3C;
+}
+
+.yellow {
+    background-color: #E57D1B;
+}
+
+.green {
+    background-color: #2ACB72;
+}
+
+.blue {
+    background-color: #3F98D9;
+}
+
+.purple {
+    background-color: #8E44AB;
+}
+
+.violet {
+    background-color: #660033;
+}
+/*#endregion */
+
+/*#region Widgets Structure */
+.widget {
+    /*padding: 20px;*/
+}
+
+.widgetHeader {
+    color: #FFFFFF;
+    font-family: 'Oswald Medium';
+}
+
+.widget div.item.item-divider.widgetHeader {
+    border-radius: 10px 10px 0 0;
+}
+
+/*List iteam in Widgets*/
+.item {
+    padding: 10px;
+}
+
+
+
+div.item.item-divider.subHeader {
+    padding: 25px;
+}
+
+    div.item.item-divider.subHeader div.col.col-50.left {
+        padding-top: 12px;
+    }
+
+/*Items divs */
+
+
+/*Widgets Icons*/
+
+.widget .widgetHeader .headerIcon i {
+    margin-right: 25px;
+}
+
+div.col.col-20.right.redIcon i.icon.ion-chevron-right {
+    color: #E64B3C;
+}
+
+.itemsList div.col.col-80.left p {
+    padding: 30px 0 10px 0;
+}
+
+/*#endregion */
+
+/*#region Right-Left classes similar to pull-left/right from bootstrap */
+.right {
+    display: block !important;
+    float: right !important;
+    text-align: right !important;
+    padding: 0;
+}
+
+.left {
+    display: block !important;
+    float: left !important;
+    text-align: left !important;
+    padding: 0;
+    vertical-align: middle;
+}
+/*#endregion */
+
+/*#region IonicPopup */
+
+.lmsPopup .popup-head {
+    font-size: 20px;
+    color: white;
+    background-color: #E64B3C;
+    border-radius: 5px 5px 0 0;
+}
+
+.lmsPopup div.popup {
+    width: 80%;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.lmsPopup .popup-title {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.lmsPopup div.popup-body, .lmsPopup .list li.item {
+    font-size: 25px;
+    line-height: 47px;
+}
+
+.lmsPopup button {
+    font-size: 25px;
+    padding: 30px 0 30px 0;
+    height: 70px;
+    background-color: #E64B3C;
+}
+/*#endregion */
+
+.has-error {
+    color: #900303;
+    border-bottom: 2px solid #900303;
+}
+
+
+.spinner svg {
+   width: 50px;
+  height: 50px;
+  margin-top:60%;
+
+}
+
+.loading-container .loading {
+    padding: 20px;
+    border-radius: 5px;
+    /*background-color:transparent;*/
+    width:100%;
+    height:100%;
+}
+
+.bold {
+    font-weight: bold;
+}

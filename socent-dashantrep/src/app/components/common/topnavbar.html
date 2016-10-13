@@ -1,0 +1,43 @@
+<div class="row border-bottom">
+    <nav class="navbar navbar-static-top white-bg" role="navigation" style="margin-bottom: 0">
+        <div class="navbar-header">
+            <span minimaliza-sidebar></span> 
+            <span><i class="fa fa-search fa-2x m-t m-l pull-left"></i></span>
+            <form role="search" class="navbar-form-custom" method="post" action="">
+                <div class="form-group">
+                    <input type="text" placeholder="Caută întreprindere..." class="form-control" name="top-search" id="top-search">
+                </div>
+            </form>
+        </div>
+        <ul class="nav navbar-top-links navbar-right">
+            <li uib-dropdown>
+                <a class="count-info" href uib-dropdown-toggle>
+                    <i class="fa fa-bell"></i> <span class="label label-primary">2</span>
+                </a>
+                <ul class="dropdown-alerts" uib-dropdown-menu>
+                    <li>
+                        <a ui-sref="inbox">
+                            <div>
+                                <i class="fa fa-info-circle text-warning"></i> Trimite raportul anual al întreprinderii Fără Poluare
+                                <span class="pull-right text-muted small">mai puțin de 1 minut</span>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a ui-sref="inbox">
+                            <div>
+                                <i class="fa fa-info-circle text-success"></i> Cererea de înregistrare validată pentru întreprinderea Reciclăm Mai Mult
+                                <span class="pull-right text-muted small">mai puțin de 1 oră</span>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="">
+                    <i class="fa fa-sign-out"></i> Deconectare
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>

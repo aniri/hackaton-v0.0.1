@@ -1,0 +1,37 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      <div style="text-align: center;">
+        <img src="img/transp_logoasistentulcetateanului.png" height="32px" />
+      </div>
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+
+  <div *ngIf="!signedIn()">
+    <ion-list>
+
+      <ion-item>
+        <ion-label floating>Username</ion-label>
+        <ion-input type="text" [(ngModel)]="username"></ion-input>
+      </ion-item>
+
+      <ion-item>
+        <ion-label floating>Password</ion-label>
+        <ion-input type="password" [(ngModel)]="password"></ion-input>
+      </ion-item>
+
+    </ion-list>
+
+    <div padding>
+      <button ion-button color="primary" block (click)="signIn()">Sign In</button>
+    </div>
+  </div>
+
+  <div *ngIf="signedIn()" style="text-align: center;">
+    <img src="//aceshightattooshop.com/wp-content/uploads/2014/06/profile-placeholder.jpg" width="250" />
+    <h2>Welcome {{ username }}</h2>
+  </div>
+</ion-content>

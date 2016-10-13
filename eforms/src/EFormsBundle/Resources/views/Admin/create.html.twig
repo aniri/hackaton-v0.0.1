@@ -1,0 +1,42 @@
+{% extends "EFormsBundle:Admin:leftSideBarBase.html.twig" %}
+
+{% block rightsidebar %}
+    <h1 class="page-header">Creare formular</h1>
+    <h2>Date formular</h2>
+    <div class="form-group">
+        <label for="formName">Nume Formular</label>
+        <input type="text" class="form-control" id="formName" placeholder="Numele formularului">
+    </div>
+    <div class="form-group">
+        <label for="formName">Descriere</label>
+        <textarea class="form-control" rows="3" placeholder="Descriere" id="formDescription"></textarea>
+    </div>
+    <h2>Campuri de completat</h2>
+    <div class="build-wrap"></div>
+    <div class="render-wrap"></div>
+
+    <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="gridSystemModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title" id="gridSystemModalLabel">Atentie!</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <h2>Va rugam asteptati..</h2>
+                    </div>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+{% endblock %}
+
+{% block javascripts %}
+    <script src="{{ asset('bundles/eforms/js/form-builder.min.js') }}"></script>
+    <script src="{{ asset('bundles/eforms/js/form-render.min.js') }}"></script>
+    <script src="{{ asset('bundles/eforms/js/demo.js') }}"></script>
+{% endblock %}
+{% block stylesheets %}
+    <link rel="stylesheet" type="text/css" href="{{ asset('bundles/eforms/css/form-builder.min.css') }}" />
+    <link rel="stylesheet" type="text/css" href="{{ asset('bundles/eforms/css/form-render.min.css') }}" />
+{% endblock %}
