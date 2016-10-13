@@ -1,0 +1,12 @@
+<div ng-controller="CommonReservationController as common_reservation" class="ng-hide" ng-show="true">
+
+    <img src="images/StopCozi_Logo.png" style="width:100px; height:100px;" />
+
+    <div ng-include="'views/common/reservation/reservation_1_combos.html'" ng-show="step == 1"></div>
+    <div ng-include="'views/common/reservation/reservation_2_month.html'" ng-show="step == 2"></div>
+    <div ng-include="'views/common/reservation/reservation_3_day.html'" ng-show="step == 3"></div>
+    <div ng-include="'views/common/reservation/reservation_4_contact.html'" ng-show="step == 4"></div>
+    <div ng-include="'views/common/reservation/reservation_5_validation.html'" ng-show="step == 5"></div>
+
+    <div ui-view=""></div>
+</div>
